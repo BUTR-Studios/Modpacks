@@ -202,7 +202,7 @@ element {
   button_element_executable_block_identifier = bd29d19a-fa38-4aee-ac44-f944acd83b74-1768150038923
   [executable_action_instance:9201c5c3-a12c-4950-8cac-24927ec5695c-1768503812218][action_type:opengui] = support_us_screen
   [executable_block:bd29d19a-fa38-4aee-ac44-f944acd83b74-1768150038923][type:generic] = [executables:9201c5c3-a12c-4950-8cac-24927ec5695c-1768503812218;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -266,7 +266,7 @@ element {
   button_element_executable_block_identifier = bd29d19a-fa38-4aee-ac44-f944acd83b74-1768150038923
   [executable_action_instance:cfb00fe0-041d-4efe-9075-b5b2350aea65-1769260247023][action_type:disable_layout] = support-us-widget
   [executable_block:bd29d19a-fa38-4aee-ac44-f944acd83b74-1768150038923][type:generic] = [executables:cfb00fe0-041d-4efe-9075-b5b2350aea65-1769260247023;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

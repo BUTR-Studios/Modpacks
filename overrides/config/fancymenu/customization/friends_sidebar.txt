@@ -10,7 +10,7 @@ layout-meta {
   randomonlyfirsttime = false
   layout_index = 100
   universal_layout_whitelist = pause_screen;join_multiplayer_screen;
-  [loading_requirement_container_meta:ffa5adee-9076-4362-8f98-102e8c567d30-1768933989936] = [groups:][instances:]
+  [loading_requirement_container_meta:91bf238e-a461-478f-b4bd-9164f908eb56-1769895715176] = [groups:][instances:]
 }
 
 customization {
@@ -33,7 +33,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5.png
+  source = [source:location]butr:ui/background/background-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -80,7 +80,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -174,7 +174,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/transparent-button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/transparent-button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -438,7 +438,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/friends.png
+  source = [source:location]butr:icons/friends.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -485,7 +485,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/friends.png
+  source = [source:location]butr:icons/friends.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -532,7 +532,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/indicator.png
+  source = [source:location]butr:icons/indicator.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -580,7 +580,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -674,7 +674,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/transparent-button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/transparent-button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -908,7 +908,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/transparent-button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/transparent-button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -956,7 +956,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1052,7 +1052,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/transparent-button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/transparent-button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1248,8 +1248,8 @@ element {
   button_element_executable_block_identifier = 632f01a2-29a9-41af-8853-c1cf73f4ccbf-1757777797380
   [executable_action_instance:e57be342-4a6a-4363-a083-c8916d7633b1-1757777801070][action_type:set_variable] = friends-sidebar:disabled
   [executable_block:632f01a2-29a9-41af-8853-c1cf73f4ccbf-1757777797380][type:generic] = [executables:e57be342-4a6a-4363-a083-c8916d7633b1-1757777801070;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/other/blank.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/other/blank.png
+  backgroundnormal = [source:location]butr:other/blank.png
+  backgroundhovered = [source:location]butr:other/blank.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
@@ -1310,7 +1310,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/close.png
+  source = [source:location]butr:icons/close.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -1358,7 +1358,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/close.png
+  source = [source:location]butr:icons/close.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -1567,8 +1567,8 @@ element {
   button_element_executable_block_identifier = bf8b5f6d-df25-468a-b644-1f2408cb05e7-1757618232692
   [executable_action_instance:2befb310-eef4-4bb2-957c-325e35f49df6-1757618416552][action_type:opengui] = add_friend
   [executable_block:bf8b5f6d-df25-468a-b644-1f2408cb05e7-1757618232692][type:generic] = [executables:2befb310-eef4-4bb2-957c-325e35f49df6-1757618416552;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/other/blank.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/other/blank.png
+  backgroundnormal = [source:location]butr:other/blank.png
+  backgroundhovered = [source:location]butr:other/blank.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -1629,7 +1629,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1725,7 +1725,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/transparent-button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/transparent-button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1919,7 +1919,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -2015,7 +2015,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/transparent-button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/transparent-button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -2282,7 +2282,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/warning.png
+  source = [source:location]butr:icons/warning.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5

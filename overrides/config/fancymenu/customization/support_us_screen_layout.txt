@@ -358,7 +358,7 @@ element {
   button_element_executable_block_identifier = f0f4b32e-aa6d-4b71-b5e8-fb440a236ecd-1753907336249
   [executable_action_instance:3c2b23b9-43f0-4820-980f-0442570a9a34-1768505104996][action_type:back_to_last_screen] = 
   [executable_block:f0f4b32e-aa6d-4b71-b5e8-fb440a236ecd-1753907336249][type:generic] = [executables:3c2b23b9-43f0-4820-980f-0442570a9a34-1768505104996;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -469,7 +469,7 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:e13814b3-f874-4495-9b01-60615ef7042b-1768503870654][action_type:opengui] = donation_screen
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:e13814b3-f874-4495-9b01-60615ef7042b-1768503870654;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -533,7 +533,7 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:17b38ac8-0dce-4e74-ab8a-d3850d3cecb6-1768504963214][action_type:openlink] = https://discord.gg/kDCUvujReT
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:17b38ac8-0dce-4e74-ab8a-d3850d3cecb6-1768504963214;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -597,7 +597,7 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:ee6b1657-dc70-4528-a0ec-6a5b116db703-1768504870437][action_type:openlink] = https://modrinth.com/{"placeholder":"getvariable","values":{"name":"butr-project"}}
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:ee6b1657-dc70-4528-a0ec-6a5b116db703-1768504870437;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -805,7 +805,7 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:3f8f652c-beef-451c-a4eb-93fa718f3a31-1768504937180][action_type:openlink] = https://youtube.com/@BUTR-Studios
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:3f8f652c-beef-451c-a4eb-93fa718f3a31-1768504937180;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

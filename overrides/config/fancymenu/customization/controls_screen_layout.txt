@@ -35,8 +35,8 @@ element {
   button_element_executable_block_identifier = d1b482db-773b-4339-84eb-7efda34e77f3-1756479843330
   [executable_action_instance:89482052-5191-4d13-bf5e-807c574b5659-1756479856018][action_type:mimicbutton] = controls_screen:options_controlify.gui.button
   [executable_block:d1b482db-773b-4339-84eb-7efda34e77f3-1756479843330][type:generic] = [executables:89482052-5191-4d13-bf5e-807c574b5659-1756479856018;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  background_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -242,13 +242,13 @@ element {
 vanilla_button {
   button_element_executable_block_identifier = 2e4e9543-419a-4855-949c-3d812e08b1e7-1753630956228
   [executable_block:2e4e9543-419a-4855-949c-3d812e08b1e7-1753630956228][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoversound = [source:local]/config/fancymenu/assets/other/console-hover.wav
+  hoversound = [source:location]butr:other/console-hover.wav
   navigatable = true
   widget_active_state_requirement_container_identifier = 7bca8940-d299-4190-9804-7520563984ed-1753630956228
   [loading_requirement_container_meta:7bca8940-d299-4190-9804-7520563984ed-1753630956228] = [groups:][instances:]
@@ -308,13 +308,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = d8751f8c-32d4-47e4-b0f1-d36f6bffc036-1753630956228
   [executable_block:d8751f8c-32d4-47e4-b0f1-d36f6bffc036-1753630956228][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoversound = [source:local]/config/fancymenu/assets/other/console-hover.wav
+  hoversound = [source:location]butr:other/console-hover.wav
   navigatable = true
   widget_active_state_requirement_container_identifier = 5c01d642-6864-42fd-bcd4-aa9c175b8677-1753630956228
   [loading_requirement_container_meta:5c01d642-6864-42fd-bcd4-aa9c175b8677-1753630956228] = [groups:][instances:]
@@ -374,7 +374,7 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = b144d0d0-9fc7-439d-bf3b-5f29358fe87e-1767133107131
   [executable_block:b144d0d0-9fc7-439d-bf3b-5f29358fe87e-1767133107131][type:generic] = [executables:]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
@@ -438,13 +438,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 8ab7be7d-c570-4d6d-9433-7fec097e9631-1753630956228
   [executable_block:8ab7be7d-c570-4d6d-9433-7fec097e9631-1753630956228][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoversound = [source:local]/config/fancymenu/assets/other/console-hover.wav
+  hoversound = [source:location]butr:other/console-hover.wav
   navigatable = true
   widget_active_state_requirement_container_identifier = cd82d6bd-ebd2-4177-8280-0ff0abe4bf29-1753630956228
   [loading_requirement_container_meta:cd82d6bd-ebd2-4177-8280-0ff0abe4bf29-1753630956228] = [groups:][instances:]
@@ -504,7 +504,7 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 196608ce-2382-4013-adea-e5fae00b4b9e-1767133107131
   [executable_block:196608ce-2382-4013-adea-e5fae00b4b9e-1767133107131][type:generic] = [executables:]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -631,13 +631,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 57b9e197-9c64-401e-92d9-a44fa5ace130-1753630956228
   [executable_block:57b9e197-9c64-401e-92d9-a44fa5ace130-1753630956228][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoversound = [source:local]/config/fancymenu/assets/other/console-hover.wav
+  hoversound = [source:location]butr:other/console-hover.wav
   navigatable = true
   widget_active_state_requirement_container_identifier = 7ac6523b-5b72-4fb6-810b-23b12138123d-1753630956228
   [loading_requirement_container_meta:7ac6523b-5b72-4fb6-810b-23b12138123d-1753630956228] = [groups:][instances:]
@@ -697,13 +697,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = d523b776-e0c3-4231-90c3-0c26cd285f61-1753630956228
   [executable_block:d523b776-e0c3-4231-90c3-0c26cd285f61-1753630956228][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoversound = [source:local]/config/fancymenu/assets/other/console-hover.wav
+  hoversound = [source:location]butr:other/console-hover.wav
   navigatable = true
   widget_active_state_requirement_container_identifier = 017c9016-a026-4417-a381-8f56cacb9e4e-1753630956228
   [loading_requirement_container_meta:017c9016-a026-4417-a381-8f56cacb9e4e-1753630956228] = [groups:][instances:]
@@ -763,13 +763,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 19764def-dcd1-40a1-aaaf-175c7bfd765a-1753630956228
   [executable_block:19764def-dcd1-40a1-aaaf-175c7bfd765a-1753630956228][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoversound = [source:local]/config/fancymenu/assets/other/console-hover.wav
+  hoversound = [source:location]butr:other/console-hover.wav
   navigatable = true
   widget_active_state_requirement_container_identifier = 73ee4bee-03fc-48fd-a5ca-237fdbebef96-1753630956228
   [loading_requirement_container_meta:73ee4bee-03fc-48fd-a5ca-237fdbebef96-1753630956228] = [groups:][instances:]
@@ -829,7 +829,7 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 1c0a243f-9cb3-4ce9-9567-b5a7508899b3-1767133107131
   [executable_block:1c0a243f-9cb3-4ce9-9567-b5a7508899b3-1767133107131][type:generic] = [executables:]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -893,13 +893,13 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = cf8a103b-e205-4ac0-91da-f093f34362a7-1753630956228
   [executable_block:cf8a103b-e205-4ac0-91da-f093f34362a7-1753630956228][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoversound = [source:local]/config/fancymenu/assets/other/console-hover.wav
+  hoversound = [source:location]butr:other/console-hover.wav
   navigatable = true
   widget_active_state_requirement_container_identifier = e3f63c64-51c2-4c49-8261-6b8fd60da870-1753630956228
   [loading_requirement_container_meta:e3f63c64-51c2-4c49-8261-6b8fd60da870-1753630956228] = [groups:][instances:]

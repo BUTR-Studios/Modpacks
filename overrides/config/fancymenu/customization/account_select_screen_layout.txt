@@ -82,8 +82,8 @@ element {
   button_element_executable_block_identifier = 1c281a2d-bebc-4299-bfdb-80e29493c930-1753638754000
   [executable_action_instance:1420f7a8-8284-4dee-b89b-f23e7326315e-1753640159372][action_type:opengui] = join_multiplayer_screen
   [executable_block:1c281a2d-bebc-4299-bfdb-80e29493c930-1753638754000][type:generic] = [executables:1420f7a8-8284-4dee-b89b-f23e7326315e-1753640159372;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -148,8 +148,8 @@ element {
   button_element_executable_block_identifier = 1c281a2d-bebc-4299-bfdb-80e29493c930-1753638754000
   [executable_action_instance:d65b2421-1f59-49ae-90bf-18e068c33ff4-1753639716450][action_type:mimicbutton] = me.axieum.mcmod.authme.api.gui.screen.AuthMethodScreen:466495
   [executable_block:1c281a2d-bebc-4299-bfdb-80e29493c930-1753638754000][type:generic] = [executables:d65b2421-1f59-49ae-90bf-18e068c33ff4-1753639716450;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -215,8 +215,8 @@ element {
   button_element_executable_block_identifier = 1c281a2d-bebc-4299-bfdb-80e29493c930-1753638754000
   [executable_action_instance:e90430fe-3257-4d29-8962-86ec32ced02a-1753639745448][action_type:mimicbutton] = me.axieum.mcmod.authme.api.gui.screen.AuthMethodScreen:514495
   [executable_block:1c281a2d-bebc-4299-bfdb-80e29493c930-1753638754000][type:generic] = [executables:e90430fe-3257-4d29-8962-86ec32ced02a-1753639745448;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -472,7 +472,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/macrohard.png
+  source = [source:location]butr:icons/macrohard.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -520,7 +520,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/profile.png
+  source = [source:location]butr:icons/profile.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -619,7 +619,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/transparent-button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/transparent-button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5

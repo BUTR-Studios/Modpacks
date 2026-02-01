@@ -12,9 +12,6 @@ de.linusdev.oneworldfolder.ErrorDialogScreen {
 net.minecraft.class_6599 {
 }
 
-net.minecraft.class_429 {
-}
-
 net.minecraft.class_500 {
 }
 
@@ -237,9 +234,6 @@ net.minecraft.class_466 {
 net.minecraft.class_491 {
 }
 
-me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
-}
-
 dev.isxander.yacl3.gui.YACLScreen {
 }
 
@@ -262,5 +256,11 @@ net.minecraft.class_440 {
 }
 
 dev.dediamondpro.resourcify.gui.browsepage.BrowseScreen {
+}
+
+games.enchanted.enchanteds_sodium_options.common.gui.screen.EnchantedSodiumOptionsScreen {
+}
+
+net.minecraft.class_429 {
 }
 

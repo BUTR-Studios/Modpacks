@@ -32,7 +32,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5.png
+  source = [source:location]butr:ui/background/background-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -156,8 +156,8 @@ element {
   [executable_action_instance:64e89d20-061c-4f9f-a27c-62093d16d259-1753815100835][action_type:opengui] = spiffy_overlay
   [executable_action_instance:d5c7b0ab-5abc-4acb-a07b-d54526426615-1767038446327][action_type:set_variable] = hud-editor:true
   [executable_block:70681f1c-1638-4dcb-98ac-4b8aef955c96-1753815077964][type:generic] = [executables:64e89d20-061c-4f9f-a27c-62093d16d259-1753815100835;d5c7b0ab-5abc-4acb-a07b-d54526426615-1767038446327;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

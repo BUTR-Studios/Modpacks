@@ -33,7 +33,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/other/corner-left.png
+  source = [source:location]butr:other/corner-left.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -83,7 +83,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/other/corner-right.png
+  source = [source:location]butr:other/corner-right.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5

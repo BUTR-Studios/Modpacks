@@ -37,7 +37,7 @@ element {
   [executable_action_instance:cf8ce327-c911-4389-8a2f-f1aec7f71d91-1755531566244][action_type:set_variable] = compatability-mode:false
   [executable_action_instance:2fa94706-f50b-4d55-a5ab-14496ccc21c0-1755532002060][action_type:set_variable] = compat-off:true
   [executable_block:f4fd64e0-4a84-4645-820f-b7a5bcfa3e84-1755256717433][type:generic] = [executables:cf8ce327-c911-4389-8a2f-f1aec7f71d91-1755531566244;2fa94706-f50b-4d55-a5ab-14496ccc21c0-1755532002060;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

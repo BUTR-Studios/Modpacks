@@ -14,7 +14,7 @@ variable {
 
 variable {
   name = accent-color
-  value = none
+  value = ad73ff
   reset_on_launch = false
 }
 
@@ -81,6 +81,12 @@ variable {
 variable {
   name = modified
   value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = friend1-status-color
+  value = AA0000
   reset_on_launch = false
 }
 
@@ -206,7 +212,7 @@ variable {
 
 variable {
   name = has-seen-resource-browser
-  value = false
+  value = true
   reset_on_launch = false
 }
 
@@ -223,6 +229,12 @@ variable {
 }
 
 variable {
+  name = friend2-status
+  value = <html> <head><title>404 Not Found</title></head> <body> <center><h1>404 Not Found</h1></center> <hr><center>nginx</center> </body> </html>
+  reset_on_launch = false
+}
+
+variable {
   name = mojo
   value = false
   reset_on_launch = false
@@ -235,8 +247,14 @@ variable {
 }
 
 variable {
+  name = friend1-status
+  value = <html> <head><title>404 Not Found</title></head> <body> <center><h1>404 Not Found</h1></center> <hr><center>nginx</center> </body> </html>
+  reset_on_launch = false
+}
+
+variable {
   name = has-passed-onboarding
-  value = false
+  value = true
   reset_on_launch = false
 }
 
@@ -284,7 +302,7 @@ variable {
 
 variable {
   name = video-settings-type
-  value = butterium
+  value = sodium
   reset_on_launch = false
 }
 

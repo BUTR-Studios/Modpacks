@@ -32,7 +32,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/accented-background.png
+  source = [source:location]butr:ui/background/accented-background.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5

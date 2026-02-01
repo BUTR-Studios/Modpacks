@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1768935882880
+  last_edited_time = 1769975939077
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 10000
   universal_layout_blacklist = title_screen;pause_screen;net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI;hello;onboarding_settings;drippy_loading_overlay;beacon_screen;me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen;view_profile_screen;
-  [loading_requirement_container_meta:a1807815-4b06-4351-9995-d3c1ea09a4e4-1769205357487] = [groups:][instances:10bc3baf-64ac-46b2-8efb-61eae99b2e8a-1767101741044;]
+  [loading_requirement_container_meta:162b9312-b67b-4291-8df3-224957d199c9-1769975935226] = [groups:][instances:10bc3baf-64ac-46b2-8efb-61eae99b2e8a-1767101741044;]
   [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:10bc3baf-64ac-46b2-8efb-61eae99b2e8a-1767101741044] = ["mode":"contains","text":"{"placeholder":"file_text","values":{"path_or_url":"/config/fancymenu/container_screens.txt","mode":"all","separator":"\n","last_lines":"1"}}","compare_with":"{"placeholder":"screenid"}"]$
 }
 
@@ -34,7 +34,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/accented-background.png
+  source = [source:location]butr:ui/background/accented-background.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5

@@ -34,9 +34,9 @@ layout_action_executable_blocks {
 vanilla_button {
   button_element_executable_block_identifier = c6249819-e0bf-4316-a267-605e73b698c7-1754173061578
   [executable_block:c6249819-e0bf-4316-a267-605e73b698c7-1754173061578][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/button-nineslice-3x5.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/button-nineslice-3x5.png
+  background_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -95,9 +95,9 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 151c5db1-a846-40ad-9d7f-c5c2f134ed88-1754173061578
   [executable_block:151c5db1-a846-40ad-9d7f-c5c2f134ed88-1754173061578][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/button-nineslice-3x5.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/button-nineslice-3x5.png
+  background_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

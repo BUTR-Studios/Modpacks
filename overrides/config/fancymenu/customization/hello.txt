@@ -89,7 +89,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/onboarding/hello.gif
+  source = [source:location]butr:onboarding/hello.gif
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -137,7 +137,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/onboarding/hello.gif
+  source = [source:location]butr:onboarding/hello.gif
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -387,7 +387,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/circlecursor.png
+  source = [source:location]butr:icons/circlecursor.png
   hotspot_x = 25
   hotspot_y = 25
   editor_preview_mode = true

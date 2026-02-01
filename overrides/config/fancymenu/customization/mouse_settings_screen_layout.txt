@@ -34,9 +34,9 @@ layout_action_executable_blocks {
 vanilla_button {
   button_element_executable_block_identifier = 49e2cdcc-ad12-4a6b-bdf1-386f570994f7-1753631824386
   [executable_block:49e2cdcc-ad12-4a6b-bdf1-386f570994f7-1753631824386][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  background_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -95,9 +95,9 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = e74880fd-7598-4db1-b115-4814e35d1115-1753631824386
   [executable_block:e74880fd-7598-4db1-b115-4814e35d1115-1753631824386][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  background_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -155,7 +155,7 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 36131f72-8669-4c2b-a9b6-f9f938f463da-1753631824386
   [executable_block:36131f72-8669-4c2b-a9b6-f9f938f463da-1753631824386][type:generic] = [executables:]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -172,8 +172,8 @@ vanilla_button {
   template_apply_visibility = false
   template_apply_label = false
   template_share_with = buttons
-  slider_background_texture_normal = [source:local]/config/fancymenu/assets/ui/slider/slider-nineslice-3x5.png
-  slider_background_texture_highlighted = [source:local]/config/fancymenu/assets/ui/slider/slider-nineslice-3x5.png
+  slider_background_texture_normal = [source:location]butr:ui/slider/slider-nineslice-3x5.png
+  slider_background_texture_highlighted = [source:location]butr:ui/slider/slider-nineslice-3x5.png
   nine_slice_slider_handle = true
   nine_slice_slider_handle_border_x = 5
   nine_slice_slider_handle_border_y = 5
@@ -215,9 +215,9 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = ffeec1b8-dded-4c90-a8bd-b29fa4d679ed-1753631824386
   [executable_block:ffeec1b8-dded-4c90-a8bd-b29fa4d679ed-1753631824386][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  background_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -276,8 +276,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 63f94c3f-7861-4acd-b537-3dd620cc4448-1753631824384
   [executable_block:63f94c3f-7861-4acd-b537-3dd620cc4448-1753631824384][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -335,7 +335,7 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 1b36155f-153d-4f4b-ba36-c27ade954c39-1753631824386
   [executable_block:1b36155f-153d-4f4b-ba36-c27ade954c39-1753631824386][type:generic] = [executables:]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -352,8 +352,8 @@ vanilla_button {
   template_apply_visibility = false
   template_apply_label = false
   template_share_with = buttons
-  slider_background_texture_normal = [source:local]/config/fancymenu/assets/ui/slider/slider-nineslice-3x5.png
-  slider_background_texture_highlighted = [source:local]/config/fancymenu/assets/ui/slider/slider-nineslice-3x5.png
+  slider_background_texture_normal = [source:location]butr:ui/slider/slider-nineslice-3x5.png
+  slider_background_texture_highlighted = [source:location]butr:ui/slider/slider-nineslice-3x5.png
   nine_slice_slider_handle = true
   nine_slice_slider_handle_border_x = 5
   nine_slice_slider_handle_border_y = 5
@@ -396,9 +396,9 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 9639aa88-7408-4100-bfc7-a2336d5fed01-1753631824386
   [executable_block:9639aa88-7408-4100-bfc7-a2336d5fed01-1753631824386][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  background_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

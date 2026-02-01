@@ -34,7 +34,7 @@ layout_action_executable_blocks {
 vanilla_button {
   button_element_executable_block_identifier = d9941914-dc6d-46df-bba2-8104dbe1844c-1755280614910
   [executable_block:d9941914-dc6d-46df-bba2-8104dbe1844c-1755280614910][type:generic] = [executables:]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

@@ -91,8 +91,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 384b2ee6-b1aa-49a6-85a1-6f7559c6ed25-1753639776316
   [executable_block:384b2ee6-b1aa-49a6-85a1-6f7559c6ed25-1753639776316][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

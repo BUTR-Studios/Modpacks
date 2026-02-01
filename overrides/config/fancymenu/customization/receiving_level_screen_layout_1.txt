@@ -13,7 +13,7 @@ layout-meta {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/ui/background/{"placeholder":"getvariable","values":{"name":"background"}}.png
+  image_path = [source:location]butr:ui/background/{"placeholder":"getvariable","values":{"name":"background"}}.png
   slide = false
   repeat_texture = false
   parallax = true

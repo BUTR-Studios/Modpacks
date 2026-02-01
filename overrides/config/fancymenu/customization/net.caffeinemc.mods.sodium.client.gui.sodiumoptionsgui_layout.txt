@@ -36,7 +36,7 @@ element {
   [executable_action_instance:e3c2b520-39b2-4e7d-941b-b3ec42788e52-1755212187496][action_type:set_variable] = video-settings-type:butterium
   [executable_action_instance:9461cefe-b279-4000-baff-eee676da39b8-1755212205142][action_type:opengui] = video_settings_screen
   [executable_block:b685ca6c-e06d-4593-bbc2-4e6fdaf7fa82-1755212035364][type:generic] = [executables:e3c2b520-39b2-4e7d-941b-b3ec42788e52-1755212187496;9461cefe-b279-4000-baff-eee676da39b8-1755212205142;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

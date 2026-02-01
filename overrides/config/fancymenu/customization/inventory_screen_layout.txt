@@ -32,7 +32,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/inventory.png
+  source = [source:location]butr:ui/background/inventory.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -83,7 +83,7 @@ element {
   button_element_executable_block_identifier = f3e14e96-dfb2-426c-8dc3-f323738c36a8-1757865175708
   [executable_block:f3e14e96-dfb2-426c-8dc3-f323738c36a8-1757865175708][type:generic] = [executables:]
   backgroundnormal = [source:location]textures/gui/sprites/container/slot.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -237,8 +237,8 @@ element {
 element {
   button_element_executable_block_identifier = ecee8f2c-2200-40fb-b806-1ab4437997c0-1757869601946
   [executable_block:ecee8f2c-2200-40fb-b806-1ab4437997c0-1757869601946][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/other/blank.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/other/blank.png
+  backgroundnormal = [source:location]butr:other/blank.png
+  backgroundhovered = [source:location]butr:other/blank.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
@@ -299,7 +299,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/icons/close.png
+  source = [source:location]butr:icons/close.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -348,8 +348,8 @@ element {
 vanilla_button {
   button_element_executable_block_identifier = 5967d255-a135-4a2e-8afc-8e455b2bb3be-1757864897092
   [executable_block:5967d255-a135-4a2e-8afc-8e455b2bb3be-1757864897092][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5-light.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/background/background-nineslice-3x5-light.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

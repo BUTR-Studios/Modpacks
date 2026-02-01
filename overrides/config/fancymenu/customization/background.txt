@@ -19,7 +19,7 @@ menu_background {
   image_path = [source:location]butr:ui/background/{"placeholder":"getvariable","values":{"name":"background"}}.png
   slide = false
   repeat_texture = false
-  fallback_path = [source:local]/config/fancymenu/assets/ui/background/3.png
+  fallback_path = [source:location]butr:ui/background/3.png
   parallax = true
   parallax_intensity = 0.06
   invert_parallax = false

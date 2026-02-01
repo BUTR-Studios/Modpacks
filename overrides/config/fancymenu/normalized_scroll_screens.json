@@ -5,6 +5,7 @@
   "mouse_settings_screen": false,
   "net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI": true,
   "experiments_screen": false,
+  "games.enchanted.enchanteds_sodium_options.common.gui.screen.EnchantedSodiumOptionsScreen": false,
   "pause_screen": false,
   "controls_screen": true,
   "me.shedaniel.clothconfig2.gui.ClothConfigScreen": false,

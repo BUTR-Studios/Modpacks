@@ -32,7 +32,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5.png
+  source = [source:location]butr:ui/background/background-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -80,7 +80,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5.png
+  source = [source:location]butr:ui/background/background-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -139,11 +139,11 @@ element {
   slider_element_executable_block_identifier = 1b0c25e3-cc0f-41e7-9324-3c670234c357-1753811551232
   [executable_action_instance:c3417c09-0330-4872-90b8-940670e9635a-1753811881284][action_type:set_variable] = keystroke-pressed-opacity:{"placeholder":"calc","values":{"expression":"$$value / 100","decimal":"true"}}
   [executable_block:1b0c25e3-cc0f-41e7-9324-3c670234c357-1753811551232][type:generic] = [executables:c3417c09-0330-4872-90b8-940670e9635a-1753811881284;]
-  handle_texture_normal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  handle_texture_hovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/button-nineslice-3x5.png
-  handle_texture_inactive = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  handle_texture_normal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  handle_texture_hovered = [source:location]butr:ui/hover_buttons/button-nineslice-3x5.png
+  handle_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   restart_background_animations = true
-  slider_background_texture_normal = [source:local]/config/fancymenu/assets/ui/slider/slider-nineslice-3x5.png
+  slider_background_texture_normal = [source:location]butr:ui/slider/slider-nineslice-3x5.png
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -240,7 +240,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/innactive_buttons/button-nineslice-3x5.png
+  source = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -361,7 +361,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5.png
+  source = [source:location]butr:ui/background/background-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -409,7 +409,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5.png
+  source = [source:location]butr:ui/background/background-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -456,7 +456,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5.png
+  source = [source:location]butr:ui/background/background-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -547,7 +547,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/buttons/transparent-button-nineslice-3x5.png
+  source = [source:location]butr:ui/buttons/transparent-button-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -595,7 +595,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  source = [source:location]butr:ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -643,7 +643,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/off.png
+  source = [source:location]butr:ui/switches/off.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -694,8 +694,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = keystrokes-is-enabled:False
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -760,8 +760,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = keystrokes-is-enabled:True
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -969,7 +969,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  source = [source:location]butr:ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1017,7 +1017,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/off.png
+  source = [source:location]butr:ui/switches/off.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1068,8 +1068,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = armor-hud-is-enabled:True
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -1134,8 +1134,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = armor-hud-is-enabled:False
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -1197,7 +1197,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  source = [source:location]butr:ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1245,7 +1245,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/off.png
+  source = [source:location]butr:ui/switches/off.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1296,8 +1296,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = cords-hud-is-enabled:True
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -1362,8 +1362,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = cords-hud-is-enabled:False
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -1425,7 +1425,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  source = [source:location]butr:ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1473,7 +1473,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/off.png
+  source = [source:location]butr:ui/switches/off.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1524,8 +1524,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = time-is-enabled:True
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -1590,8 +1590,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = time-is-enabled:False
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -1872,7 +1872,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  source = [source:location]butr:ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1920,7 +1920,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/off.png
+  source = [source:location]butr:ui/switches/off.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -1971,8 +1971,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = time-is-enabled:True
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -2037,8 +2037,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = time-is-enabled:False
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -2173,7 +2173,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  source = [source:location]butr:ui/switches/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -2221,7 +2221,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/switches/off.png
+  source = [source:location]butr:ui/switches/off.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -2272,8 +2272,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = compass-hud-is-enabled:true
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -2338,8 +2338,8 @@ element {
   button_element_executable_block_identifier = d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993
   [executable_action_instance:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079][action_type:set_variable] = compass-hud-is-enabled:false
   [executable_block:d6bb240e-8b26-43a1-98a9-50717078ebd4-1755356521993][type:generic] = [executables:37a9430e-c504-4c1e-be53-a98577c0e817-1755356745079;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/switches/handle.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/switches/handle-hover.png
+  backgroundnormal = [source:location]butr:ui/switches/handle.png
+  backgroundhovered = [source:location]butr:ui/switches/handle-hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -2478,8 +2478,8 @@ element {
   [executable_action_instance:64e89d20-061c-4f9f-a27c-62093d16d259-1753815100835][action_type:opengui] = spiffy_overlay
   [executable_action_instance:d5c7b0ab-5abc-4acb-a07b-d54526426615-1767038446327][action_type:set_variable] = hud-editor:true
   [executable_block:70681f1c-1638-4dcb-98ac-4b8aef955c96-1753815077964][type:generic] = [executables:64e89d20-061c-4f9f-a27c-62093d16d259-1753815100835;d5c7b0ab-5abc-4acb-a07b-d54526426615-1767038446327;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

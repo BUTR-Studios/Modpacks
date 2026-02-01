@@ -32,7 +32,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/accented-background.png
+  source = [source:location]butr:ui/background/accented-background.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -2161,7 +2161,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/other/corner-left.png
+  source = [source:location]butr:other/corner-left.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -2211,7 +2211,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/other/corner-right.png
+  source = [source:location]butr:other/corner-right.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -2352,7 +2352,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/ui/background/background-nineslice-3x5.png
+  source = [source:location]butr:ui/background/background-nineslice-3x5.png
   repeat_texture = false
   nine_slice_texture = true
   nine_slice_texture_border_x = 5
@@ -2476,7 +2476,7 @@ element {
   button_element_executable_block_identifier = 12399f4a-e4f0-41e5-9013-20e62c00bc9d-1767040722821
   [executable_action_instance:f43d353f-2539-4485-a99d-f7bb6f60871a-1767041406770][action_type:opengui] = hud_customization_screen
   [executable_block:12399f4a-e4f0-41e5-9013-20e62c00bc9d-1767040722821][type:generic] = [executables:f43d353f-2539-4485-a99d-f7bb6f60871a-1767041406770;]
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5

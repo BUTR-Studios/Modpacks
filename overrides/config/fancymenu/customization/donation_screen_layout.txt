@@ -248,8 +248,8 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:373198f6-0f47-4bf7-8a1d-6cad5be1fdef-1769261235995][action_type:openlink] = https://buy.stripe.com/eVq8wO44w9mj6Efdfaf7i0d
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:373198f6-0f47-4bf7-8a1d-6cad5be1fdef-1769261235995;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -360,8 +360,8 @@ element {
   button_element_executable_block_identifier = f0f4b32e-aa6d-4b71-b5e8-fb440a236ecd-1753907336249
   [executable_action_instance:4a21f22a-55ed-4cfe-8f3f-ac905466702c-1768505132859][action_type:back_to_last_screen] = 
   [executable_block:f0f4b32e-aa6d-4b71-b5e8-fb440a236ecd-1753907336249][type:generic] = [executables:4a21f22a-55ed-4cfe-8f3f-ac905466702c-1768505132859;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -638,8 +638,8 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:2d3eafb7-d6b7-4efd-97ad-1637a632fe1d-1769261218691][action_type:openlink] = https://buy.stripe.com/fZu7sKdF6gOL5Ab4IEf7i0c
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:2d3eafb7-d6b7-4efd-97ad-1637a632fe1d-1769261218691;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -703,8 +703,8 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:b3e6670c-1b38-439d-ac7f-2c4c5d38170c-1769261184469][action_type:openlink] = https://buy.stripe.com/eVq5kC30s5639Qr4IEf7i0b
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:b3e6670c-1b38-439d-ac7f-2c4c5d38170c-1769261184469;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -768,8 +768,8 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:01b98c12-3567-469e-bdb3-c5491a76da42-1769261280957][action_type:openlink] = https://buy.stripe.com/aFa6oGasUgOL8Mn2Awf7i0f
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:01b98c12-3567-469e-bdb3-c5491a76da42-1769261280957;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
@@ -1666,8 +1666,8 @@ element {
   button_element_executable_block_identifier = eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940
   [executable_action_instance:cc115747-e621-4cf8-88e5-03f17cbce72f-1769261265348][action_type:openlink] = https://buy.stripe.com/4gM5kCeJaaqn6Efgrmf7i0e
   [executable_block:eb7047cb-eba1-4514-871c-230aa2bed207-1768255639940][type:generic] = [executables:cc115747-e621-4cf8-88e5-03f17cbce72f-1769261265348;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ui/buttons/button-nineslice-3x5.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
   nine_slice_custom_background = true
   nine_slice_border_x = 5
