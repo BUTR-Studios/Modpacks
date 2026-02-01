@@ -1,0 +1,103 @@
+type = listener_instances
+
+listener_instance {
+  listener_instance_identifier = 397847d1-449a-4d1e-b752-b1ad1b1bf84b-1767042096009
+  listener_provider_identifier = mouse_scrolled
+  listener_instance_action_script_identifier = 7b990aa1-aa5c-4b1d-8445-206b554aa223-1767042096009
+  listener_instance_display_name = Background Selector Scrolling (on mouse scroll)
+  [executable_action_instance:23e88715-25c4-467e-a035-af4921b499a9-1767042099691][action_type:set_variable] = background:{"placeholder":"calc","values":{"expression":"{"placeholder":"getvariable","values":{"name":"background"}} - 1","decimal":"false"}}
+  [executable_block:1427c1e0-9eaf-4d42-8f40-61cbbbcc568f-1767043859330][type:if] = [executables:23e88715-25c4-467e-a035-af4921b499a9-1767042099691;][appended:357fa44d-7d49-4741-badf-3e6619dc98ec-1767043883112]
+  [executable_action_instance:f94147ef-3270-4248-9c95-95e9ea753701-1767043896582][action_type:set_variable] = background:{"placeholder":"calc","values":{"expression":"{"placeholder":"getvariable","values":{"name":"background"}} + 1","decimal":"false"}}
+  [executable_block:357fa44d-7d49-4741-badf-3e6619dc98ec-1767043883112][type:else] = [executables:f94147ef-3270-4248-9c95-95e9ea753701-1767043896582;]
+  [if_executable_block_body:1427c1e0-9eaf-4d42-8f40-61cbbbcc568f-1767043859330] = bd31b55d-56f4-40a6-94d5-09b2bd0b429f-1767043828880
+  [loading_requirement_container_meta:bd31b55d-56f4-40a6-94d5-09b2bd0b429f-1767043828880] = [groups:][instances:c130db90-d198-49f8-8941-abe4007d300e-1767043829911;]
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:c130db90-d198-49f8-8941-abe4007d300e-1767043829911] = ["mode":"bigger-than","number":"$$scroll_delta_y","compare_with":"0"]$
+  [if_executable_block_collapsed:1427c1e0-9eaf-4d42-8f40-61cbbbcc568f-1767043859330] = false
+  [executable_block:f2ec2282-8334-4867-a907-7e73484213e0-1767042387595][type:if] = [executables:1427c1e0-9eaf-4d42-8f40-61cbbbcc568f-1767043859330;]
+  [if_executable_block_body:f2ec2282-8334-4867-a907-7e73484213e0-1767042387595] = f31acb36-9a85-4c20-b1ad-85ff5688efde-1767042350531
+  [loading_requirement_container_meta:f31acb36-9a85-4c20-b1ad-85ff5688efde-1767042350531] = [groups:][instances:04a124c9-312d-409a-91b4-70ffd1ec3e1d-1767042351385;]
+  [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:04a124c9-312d-409a-91b4-70ffd1ec3e1d-1767042351385] = 0318ba12-f6ad-40d0-b85a-fa28b9279970-1767042270196
+  [if_executable_block_collapsed:f2ec2282-8334-4867-a907-7e73484213e0-1767042387595] = false
+  [executable_block:7b990aa1-aa5c-4b1d-8445-206b554aa223-1767042096009][type:generic] = [executables:f2ec2282-8334-4867-a907-7e73484213e0-1767042387595;]
+}
+
+listener_instance {
+  listener_instance_identifier = edc9d148-af30-4876-8e8d-6061f82030ed-1767999346540
+  listener_provider_identifier = mouse_button_clicked
+  listener_instance_action_script_identifier = 6f3c9df7-3a88-4d90-9b11-2faa971df89a-1767999346540
+  [executable_action_instance:5a0863fd-56c4-42df-839b-70fdf7cd1a12-1767999354115][action_type:edit_minecraft_option] = mainHand:left
+  [executable_block:b19d1a24-a4b0-4b8b-9f8f-4818ecbbef64-1767999442702][type:if] = [executables:5a0863fd-56c4-42df-839b-70fdf7cd1a12-1767999354115;][appended:3d7f9db6-6c60-4474-8ef3-0527a5decd8d-1767999456072]
+  [executable_action_instance:c0f8f4a1-94d7-404f-b444-30f1ffd6af32-1767999458573][action_type:edit_minecraft_option] = mainHand:right
+  [executable_block:3d7f9db6-6c60-4474-8ef3-0527a5decd8d-1767999456072][type:else] = [executables:c0f8f4a1-94d7-404f-b444-30f1ffd6af32-1767999458573;]
+  [if_executable_block_body:b19d1a24-a4b0-4b8b-9f8f-4818ecbbef64-1767999442702] = ad41674b-ce45-4571-b3ad-2c00dbd084f5-1767999379177
+  [loading_requirement_container_meta:ad41674b-ce45-4571-b3ad-2c00dbd084f5-1767999379177] = [groups:][instances:88b43e17-3f56-4504-8755-30246a8a5e54-1767999379766;]
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:88b43e17-3f56-4504-8755-30246a8a5e54-1767999379766] = ["mode":"equals","text":"{"placeholder":"minecraft_option_value","values":{"name":"mainHand"}}","compare_with":"right"]$
+  [if_executable_block_collapsed:b19d1a24-a4b0-4b8b-9f8f-4818ecbbef64-1767999442702] = false
+  [executable_block:6f3c9df7-3a88-4d90-9b11-2faa971df89a-1767999346540][type:generic] = [executables:b19d1a24-a4b0-4b8b-9f8f-4818ecbbef64-1767999442702;]
+}
+
+listener_instance {
+  listener_instance_identifier = ce367f7f-6c24-4573-baab-a6c4c7125679-1763302166184
+  listener_provider_identifier = experience_changed
+  listener_instance_action_script_identifier = b6e59d86-732e-4927-8729-26f472cdaea1-1763302166184
+  listener_instance_display_name = Level 30 Notification (on experience changed)
+  [executable_action_instance:4e5698cd-9682-44e6-bba3-aa2d607a2dd1-1763302273476][action_type:show_toast] = {"width":180,"durationMs":5000,"title":"You have reached level {\"placeholder\":\"current_player_level\"}!","message":"You can now get high-tier enchantments","iconSource":"[source:location]minecraft:textures/mob_effect/hero_of_the_village.png","backgroundSource":""}
+  [executable_block:9d5815b0-32a6-46c3-a920-c5c6f56962c6-1763302388242][type:if] = [executables:4e5698cd-9682-44e6-bba3-aa2d607a2dd1-1763302273476;]
+  [if_executable_block_body:9d5815b0-32a6-46c3-a920-c5c6f56962c6-1763302388242] = d1808a83-0813-40e7-80e2-0d25ea455f9b-1763302374333
+  [loading_requirement_container_meta:d1808a83-0813-40e7-80e2-0d25ea455f9b-1763302374333] = [groups:][instances:a0d0fb1f-92ca-43ee-90b8-ed620ec71034-1763302375109;22118873-ac4e-4349-affe-90bf775ed058-1763302547976;]
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:a0d0fb1f-92ca-43ee-90b8-ed620ec71034-1763302375109] = ["mode":"equals","text":"$$is_level_up","compare_with":"true"]$
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:22118873-ac4e-4349-affe-90bf775ed058-1763302547976] = ["mode":"equals","number":"{"placeholder":"current_player_level"}","compare_with":"30"]$
+  [if_executable_block_collapsed:9d5815b0-32a6-46c3-a920-c5c6f56962c6-1763302388242] = false
+  [executable_block:b6e59d86-732e-4927-8729-26f472cdaea1-1763302166184][type:generic] = [executables:9d5815b0-32a6-46c3-a920-c5c6f56962c6-1763302388242;]
+}
+
+listener_instance {
+  listener_instance_identifier = c593e0a9-6389-4c5c-9bd8-614c9d4b1000-1767038629552
+  listener_provider_identifier = world_entered
+  listener_instance_action_script_identifier = 77b74373-ffe9-4ceb-9d82-6bf0cbf493b1-1767038629552
+  listener_instance_display_name = Hide HUD Editor Widgets 1 (world)
+  [executable_action_instance:40087b8f-0340-4c12-90af-3f6666c38b2f-1767038753019][action_type:set_variable] = hud-editor:false
+  [executable_block:77b74373-ffe9-4ceb-9d82-6bf0cbf493b1-1767038629552][type:generic] = [executables:40087b8f-0340-4c12-90af-3f6666c38b2f-1767038753019;]
+}
+
+listener_instance {
+  listener_instance_identifier = cfb71cba-ac02-4453-8e8c-2bd05db7f65e-1763301535868
+  listener_provider_identifier = item_broke
+  listener_instance_action_script_identifier = 61329c07-c3f2-42a3-9d0c-b6da3b61bdc9-1763301535868
+  listener_instance_display_name = Item Broken Chat Notification (on item broke)
+  [executable_action_instance:12a4add3-add5-4a54-a7f3-99866644b3b9-1763301540167][action_type:display_in_chat_client_side] = &cYour {"placeholder":"local","values":{"key":"item.{"placeholder":"replace_text","values":{"text":"$$item_key","search":":","replacement":".","use_regex":"false","replace_all":"true"}}"}} broke!
+  [executable_block:61329c07-c3f2-42a3-9d0c-b6da3b61bdc9-1763301535868][type:generic] = [executables:12a4add3-add5-4a54-a7f3-99866644b3b9-1763301540167;]
+}
+
+listener_instance {
+  listener_instance_identifier = 63a2d28a-0074-4253-b505-3c632c30950a-1767038389402
+  listener_provider_identifier = screen_close
+  listener_instance_action_script_identifier = 434d4f58-b88d-4498-87df-d817e982390e-1767038389402
+  listener_instance_display_name = On HUD Editor Closed
+  [executable_action_instance:5ff64019-b1d5-48ce-8eeb-3dccb2cf8f47-1767038393412][action_type:set_variable] = hud-editor:false
+  [executable_block:434d4f58-b88d-4498-87df-d817e982390e-1767038389402][type:generic] = [executables:5ff64019-b1d5-48ce-8eeb-3dccb2cf8f47-1767038393412;]
+}
+
+listener_instance {
+  listener_instance_identifier = 5c81d8e0-41a0-41b5-8a1a-223af48f6cfa-1767038618094
+  listener_provider_identifier = server_joined
+  listener_instance_action_script_identifier = dadba29c-9eec-41d5-9929-83edb26f5040-1767038618094
+  listener_instance_display_name = Hide HUD Editor Widgets 2 (server)
+  [executable_action_instance:8ecdf061-a491-495f-9351-9ca51282e38d-1767038667086][action_type:set_variable] = hud-editor:false
+  [executable_block:dadba29c-9eec-41d5-9929-83edb26f5040-1767038618094][type:generic] = [executables:8ecdf061-a491-495f-9351-9ca51282e38d-1767038667086;]
+}
+
+listener_instance {
+  listener_instance_identifier = f8feeccc-1168-4570-89c5-b6742d4da409-1763298912631
+  listener_provider_identifier = player_death
+  listener_instance_action_script_identifier = 5c812952-f22c-4396-9971-5bad1beed5ba-1763298912631
+  listener_instance_display_name = Death XYZ Notifications & Clipboard (on death)
+  [executable_action_instance:da810ff3-bdff-42ab-ab26-9e1de760ba2d-1763298915078][action_type:set_variable] = last-death-x:{"placeholder":"calc","values":{"expression":"$$death_pos_x","decimal":"false"}}
+  [executable_action_instance:f4d8ddaa-e7da-4ba8-9b6e-0c8feabb1777-1763298990140][action_type:set_variable] = last-death-y:{"placeholder":"calc","values":{"expression":"$$death_pos_y","decimal":"false"}}
+  [executable_action_instance:626d455f-d32a-433d-87e3-7d67ab3146ba-1763298979698][action_type:set_variable] = last-death-z:{"placeholder":"calc","values":{"expression":"$$death_pos_z","decimal":"false"}}
+  [executable_action_instance:26c007dd-0e48-4448-b587-538aedab0c03-1763300331218][action_type:copytoclipboard] = {"placeholder":"getvariable","values":{"name":"last-death-x"}}, {"placeholder":"getvariable","values":{"name":"last-death-y"}}, {"placeholder":"getvariable","values":{"name":"last-death-z"}}
+  [executable_action_instance:50dc60f8-6346-402f-955b-3d9977d4a050-1763299906851][action_type:show_toast] = {"width":240,"durationMs":6500,"title":"&fYou died at {\"placeholder\":\"getvariable\",\"values\":{\"name\":\"last-death-x\"}}, {\"placeholder\":\"getvariable\",\"values\":{\"name\":\"last-death-y\"}}, {\"placeholder\":\"getvariable\",\"values\":{\"name\":\"last-death-z\"}}","message":"&fDeath co-ordinates copied to clipboard!","iconSource":"[source:location]minecraft:textures/item/bone.png","backgroundSource":"[source:location]minecraft:textures/gui/sprites/toast/advancement.png"}
+  [executable_action_instance:cb05f9d9-357b-4368-8309-1c7e22b67761-1763301343761][action_type:display_in_chat_client_side] = &cYou died at : {"placeholder":"getvariable","values":{"name":"last-death-x"}}, {"placeholder":"getvariable","values":{"name":"last-death-y"}}, {"placeholder":"getvariable","values":{"name":"last-death-z"}}
+  [executable_block:5c812952-f22c-4396-9971-5bad1beed5ba-1763298912631][type:generic] = [executables:da810ff3-bdff-42ab-ab26-9e1de760ba2d-1763298915078;f4d8ddaa-e7da-4ba8-9b6e-0c8feabb1777-1763298990140;626d455f-d32a-433d-87e3-7d67ab3146ba-1763298979698;26c007dd-0e48-4448-b587-538aedab0c03-1763300331218;50dc60f8-6346-402f-955b-3d9977d4a050-1763299906851;cb05f9d9-357b-4368-8309-1c7e22b67761-1763301343761;]
+}
+

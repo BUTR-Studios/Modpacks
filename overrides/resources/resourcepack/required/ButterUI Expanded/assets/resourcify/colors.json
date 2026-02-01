@@ -1,0 +1,18 @@
+{
+  "text_primary": "#ffffffff",
+  "text_secondary": "#c0c0c0ff",
+  "text_link": "#4169e1ff",
+  "text_warn": "#ffff00ff",
+  "button_primary": "#828282FF",
+  "button_secondary": "#828282FF",
+  "button_primary_disabled": "#094d25ff",
+  "button_secondary_disabled": "#43444dff",
+  "checkbox": "#c0c0c0ff",
+  "expandable": "#2e2e2eFF",
+  "background": "#2e2e2eFF",
+  "ad_background": "#3c82ff66",
+  "fullscreen_background": "#00000099",
+  "dropdown": "#4d4d4dFF",
+  "dropdown_selected": "#828282FF",
+  "dropdown_border": "#000000FF"
+}

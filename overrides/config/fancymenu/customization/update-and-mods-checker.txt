@@ -1,0 +1,135 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1763931517351
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  universal_layout_whitelist = title_screen;
+  [loading_requirement_container_meta:38521394-425f-49ce-853d-03815f8e38bd-1763931410508] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+  open_screen_executable_block_identifier = 7952621b-6480-4d50-96a4-909ae46618bd-1755108063596
+  [executable_block:7952621b-6480-4d50-96a4-909ae46618bd-1755108063596][type:generic] = [executables:]
+}
+
+element {
+  is_async = false
+  tick_delay = 0
+  tick_mode = once_per_session
+  ticker_element_executable_block_identifier = 0eba87b3-0421-4b84-8c84-3b454ea26497-1753896330996
+  [executable_action_instance:37bfc492-658c-4aaa-b623-7e60c99cc685-1753896493550][action_type:opengui] = outdated_version_warning
+  [executable_action_instance:6b2e4906-fdab-4b49-be5a-3807a11a73f1-1753896456392][action_type:set_variable] = outdated:true
+  [executable_block:d48b7c47-a239-4307-a5b6-932622f741f9-1756653504840][type:if] = [executables:37bfc492-658c-4aaa-b623-7e60c99cc685-1753896493550;6b2e4906-fdab-4b49-be5a-3807a11a73f1-1753896456392;][appended:8cdd0d51-732c-4b91-8762-8cf70b2c2e2d-1756654216928]
+  [executable_action_instance:1739a9b5-afc8-47c3-9f5a-307f42dae107-1756654218590][action_type:set_variable] = outdated:false
+  [executable_block:8cdd0d51-732c-4b91-8762-8cf70b2c2e2d-1756654216928][type:else] = [executables:1739a9b5-afc8-47c3-9f5a-307f42dae107-1756654218590;]
+  [if_executable_block_body:d48b7c47-a239-4307-a5b6-932622f741f9-1756653504840] = 561044f4-ae85-4708-8416-9e64eaa9c3c9-1756653484048
+  [loading_requirement_container_meta:561044f4-ae85-4708-8416-9e64eaa9c3c9-1756653484048] = [groups:][instances:f1f2ab31-3a2c-4f2e-9d02-e0e9f98ebc44-1756653485114;849c70c8-c1b4-4ddc-94c7-4f406090c591-1756930235364;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:f1f2ab31-3a2c-4f2e-9d02-e0e9f98ebc44-1756653485114] = butterium-version:{"placeholder":"webtext","values":{"link":"https://butterium.uk/version.txt"}}
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:849c70c8-c1b4-4ddc-94c7-4f406090c591-1756930235364] = ["mode":"equals","text":"online","compare_with":"{"placeholder":"webtext","values":{"link":"https://butterium.uk/online-test.txt"}}"]$
+  [executable_block:0eba87b3-0421-4b84-8c84-3b454ea26497-1753896330996][type:generic] = [executables:d48b7c47-a239-4307-a5b6-932622f741f9-1756653504840;]
+  element_type = fancymenu_customization_item_ticker
+  instance_identifier = a32a2b17-413e-44d2-8b92-f25a8f4870c0-1753896330996
+  custom_element_layer_name = Update-checker
+  appearance_delay = every_time
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -60
+  y = -37
+  width = 120
+  height = 35
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 6cfd9ee5-a7ad-4ead-8cec-1ac68eaead98-1753896330996
+  [loading_requirement_container_meta:6cfd9ee5-a7ad-4ead-8cec-1ac68eaead98-1753896330996] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+element {
+  is_async = false
+  tick_delay = 0
+  tick_mode = normal
+  ticker_element_executable_block_identifier = 4f490203-a437-4255-bd7d-be35d694a980-1756738079598
+  [executable_action_instance:f9c44293-fc48-4812-8edb-c5b33108f33e-1756738266506][action_type:set_variable] = video-settings-type:butterium
+  [executable_block:5c4fe3ae-f785-417b-88cb-7136bc424d20-1756738254788][type:if] = [executables:f9c44293-fc48-4812-8edb-c5b33108f33e-1756738266506;]
+  [if_executable_block_body:5c4fe3ae-f785-417b-88cb-7136bc424d20-1756738254788] = 68cc0a3f-967b-41bc-803d-d6a3cf9034bf-1756738239747
+  [loading_requirement_container_meta:68cc0a3f-967b-41bc-803d-d6a3cf9034bf-1756738239747] = [groups:][instances:2a03cdf4-7425-444f-b920-fe9a36a7b1cb-1756738240732;]
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:2a03cdf4-7425-444f-b920-fe9a36a7b1cb-1756738240732] = sodium
+  [executable_action_instance:a6b73d82-ae69-44b8-8639-f6ff63f864d4-1757435165391][action_type:set_variable] = local-worlds:true
+  [executable_block:c2f12382-9f6d-43b4-a006-bd755d553481-1757435075484][type:if] = [executables:a6b73d82-ae69-44b8-8639-f6ff63f864d4-1757435165391;]
+  [if_executable_block_body:c2f12382-9f6d-43b4-a006-bd755d553481-1757435075484] = 0d5359c6-7747-45d1-a11e-2bacafe4a7e4-1757435011968
+  [loading_requirement_container_meta:0d5359c6-7747-45d1-a11e-2bacafe4a7e4-1757435011968] = [groups:][instances:d8d80b45-50e1-4408-8618-cad2c20cfd38-1757435013860;]
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:d8d80b45-50e1-4408-8618-cad2c20cfd38-1757435013860] = oneworldfolder
+  [executable_block:4f490203-a437-4255-bd7d-be35d694a980-1756738079598][type:generic] = [executables:5c4fe3ae-f785-417b-88cb-7136bc424d20-1756738254788;c2f12382-9f6d-43b4-a006-bd755d553481-1757435075484;]
+  element_type = fancymenu_customization_item_ticker
+  instance_identifier = 8cc71cf0-9ad9-455d-af05-16fbbb5e551a-1756738079598
+  custom_element_layer_name = Mod Checker Extras
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -60
+  y = 2
+  width = 120
+  height = 35
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 2d5e9bcc-dd53-4fd1-be0b-443ae4ff9427-1756738079598
+  [loading_requirement_container_meta:2d5e9bcc-dd53-4fd1-be0b-443ae4ff9427-1756738079598] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+

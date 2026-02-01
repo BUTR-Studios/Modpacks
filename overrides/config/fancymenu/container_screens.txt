@@ -1,0 +1,18 @@
+inventory_screen
+brewing_stand_screen
+grindstone_screen
+sign_edit_screen
+lectern_screen
+loom_screen
+net.minecraft.class_8898 (crafter screen)
+smoker_screen
+blast_furnace_screen
+furnace_screen
+crafting_screen
+smithing_screen
+stonecutter_screen
+cartography_table_screen
+horse_inventory_screen
+book_edit_screen
+net.minecraft.class_11385 (book signing screen)
+book_view_screen

@@ -1,0 +1,46 @@
+{
+	disableFog: false,
+	fullbright: false,
+	nightVisionFullbright: false,
+	alternateFreecam: false,
+	disableFreecamOnDamage: false,
+	zoomTransition: "EXPO_IN_OUT",
+	zoomInSpeed: 1.0,
+	zoomOutSpeed: 1.0,
+	zoomScrollSpeed: 1.0,
+	cinematicZoom: false,
+	rememberZoom: false,
+	defaultZoom: 5,
+	cloudHeight: 192,
+	thirdPersons: [
+		{
+			enabled: true,
+			key_code: -1,
+			x_offset: 4.0,
+			y_offset: 0.0,
+			z_offset: 0.0,
+			pitch: 0.0,
+			yaw: 0.0,
+			changed_fov: false,
+			fov: 0,
+			rotate_player: true,
+			invert: false,
+			collision: true
+		},
+		{
+			enabled: true,
+			key_code: -1,
+			x_offset: 4.0,
+			y_offset: 0.0,
+			z_offset: 0.0,
+			pitch: 0.0,
+			yaw: 0.0,
+			changed_fov: false,
+			fov: 0,
+			rotate_player: true,
+			invert: true,
+			collision: true
+		}
+	],
+	freelookTogglePerspective: false
+}

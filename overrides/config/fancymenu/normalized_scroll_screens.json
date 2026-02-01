@@ -1,0 +1,21 @@
+{
+  "net.minecraft.class_6599": false,
+  "accessibility_options_screen": false,
+  "com.viaversion.viafabricplus.screen.impl.PerServerVersionScreen": false,
+  "mouse_settings_screen": false,
+  "net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI": true,
+  "experiments_screen": false,
+  "pause_screen": false,
+  "controls_screen": true,
+  "me.shedaniel.clothconfig2.gui.ClothConfigScreen": false,
+  "b100.gui.ScreenWrapper": false,
+  "dev.isxander.yacl3.gui.YACLScreen": false,
+  "edit_game_rules_screen": false,
+  "video_settings_screen": false,
+  "dev.dediamondpro.resourcify.gui.browsepage.BrowseScreen": false,
+  "net.minecraft.class_11479": false,
+  "sound_options_screen": false,
+  "chat_options_screen": false,
+  "skin_customization_screen": true,
+  "com.terraformersmc.modmenu.gui.ModMenuOptionsScreen": false
+}

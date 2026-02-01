@@ -1,0 +1,80 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1767287424290
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:6f6e24bd-f592-4cc1-a90c-79dabc246474-1767287365306] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  is_async = false
+  tick_delay = 10000
+  tick_mode = normal
+  ticker_element_executable_block_identifier = 0d168358-b2b9-4a50-b7aa-63e9dc305616-1757936918685
+  [executable_action_instance:57e19637-dd2a-4e65-afb5-204bbf44fefc-1757937022348][action_type:send_http_request] = https://butterium.uk/api/friends_local.php?action=update_status|||POST|||username={"placeholder":"playername"}&server_name=MAIN&status_message={"placeholder":"current_server_ip"}|||application/x-www-form-urlencoded|||3|||false||||||true|||NONE||||||||||||||||||
+  [executable_block:0d168358-b2b9-4a50-b7aa-63e9dc305616-1757936918685][type:generic] = [executables:57e19637-dd2a-4e65-afb5-204bbf44fefc-1757937022348;]
+  element_type = fancymenu_customization_item_ticker
+  instance_identifier = 5246ab78-cf07-4821-b2c7-0d654af6f9f7-1757937318991
+  custom_element_layer_name = Send Status
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -40
+  y = -15
+  width = 80
+  height = 30
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = d5e57bb7-c973-470a-a257-9566f95671e3-1757936918685
+  [loading_requirement_container_meta:d5e57bb7-c973-470a-a257-9566f95671e3-1757936918685] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+
