@@ -1,0 +1,16 @@
+name = "Butterium"
+author = "BUTR Studios"
+version = "v1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "07c9eedf928f782c8189e6d1b6ede4eeb8a8123ca7192ff0a96a448c60e9cfe2"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"
+
+[options]
+acceptable-game-versions = []

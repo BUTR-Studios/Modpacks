@@ -1,0 +1,19 @@
+# Exclude unnecessary files
+*.mrpack
+*.jar
+servers.dat_old
+/.cache
+/.fabric
+/fancymenu_data
+/crash-reports
+/data
+/logs
+/resourcepacks
+/saves
+/downloads
+realms_persistence.json
+/datapacks
+/spiffy_instance_data
+/resources/common
+/resources/datapack
+/config/butr/data

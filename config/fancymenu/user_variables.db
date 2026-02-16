@@ -1,0 +1,326 @@
+type = user_variables
+
+variable {
+  name = selected-player
+  value = player
+  reset_on_launch = false
+}
+
+variable {
+  name = friends-count
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = accent-color
+  value = ad73ff
+  reset_on_launch = false
+}
+
+variable {
+  name = quick-connect-2
+  value = mcmanhunt.com
+  reset_on_launch = false
+}
+
+variable {
+  name = compass-hud-is-enabled
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = compat-off
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = quick-connect-1
+  value = pvplegacy.net
+  reset_on_launch = false
+}
+
+variable {
+  name = armor-hud-is-enabled
+  value = True
+  reset_on_launch = false
+}
+
+variable {
+  name = quick-connect-3
+  value = mccisland.net
+  reset_on_launch = false
+}
+
+variable {
+  name = outdated
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = hud-editor
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = chat-location
+  value = Left
+  reset_on_launch = false
+}
+
+variable {
+  name = cords-hud-is-enabled
+  value = True
+  reset_on_launch = false
+}
+
+variable {
+  name = modified
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = friend1-status-color
+  value = AA0000
+  reset_on_launch = false
+}
+
+variable {
+  name = keystroke-pressed-opacity
+  value = 0.75
+  reset_on_launch = false
+}
+
+variable {
+  name = dfficulty
+  value = Normal
+  reset_on_launch = false
+}
+
+variable {
+  name = clickfx-y
+  value = 3
+  reset_on_launch = false
+}
+
+variable {
+  name = clickfx-x
+  value = 32
+  reset_on_launch = false
+}
+
+variable {
+  name = hud-widget-backgrounds
+  value = disabled
+  reset_on_launch = false
+}
+
+variable {
+  name = test
+  value = -1.0
+  reset_on_launch = false
+}
+
+variable {
+  name = clickfxstart
+  value = 12768948
+  reset_on_launch = false
+}
+
+variable {
+  name = accent-bg-tint-opacity
+  value = 0.35
+  reset_on_launch = false
+}
+
+variable {
+  name = compatability-mode
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = last-death-x
+  value = -50
+  reset_on_launch = false
+}
+
+variable {
+  name = last-death-y
+  value = 73
+  reset_on_launch = false
+}
+
+variable {
+  name = last-death-z
+  value = -620
+  reset_on_launch = false
+}
+
+variable {
+  name = difficulty
+  value = Normal
+  reset_on_launch = false
+}
+
+variable {
+  name = friends-sidebar
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = local_worlds
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = background
+  value = 20
+  reset_on_launch = false
+}
+
+variable {
+  name = butterium-version
+  value = beta-4
+  reset_on_launch = false
+}
+
+variable {
+  name = hud-widget-backgrounds-opacity
+  value = 0.65
+  reset_on_launch = false
+}
+
+variable {
+  name = has-seen-shader-browser
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = total-packaged-mods
+  value = 164
+  reset_on_launch = false
+}
+
+variable {
+  name = has-seen-resource-browser
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = clickfx-start
+  value = 16099614
+  reset_on_launch = false
+}
+
+variable {
+  name = friend-to-add
+  value = player
+  reset_on_launch = false
+}
+
+variable {
+  name = friend2-status
+  value = <html> <head><title>404 Not Found</title></head> <body> <center><h1>404 Not Found</h1></center> <hr><center>nginx</center> </body> </html>
+  reset_on_launch = false
+}
+
+variable {
+  name = mojo
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = api-friends.friend1-name
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = friend1-status
+  value = <html> <head><title>404 Not Found</title></head> <body> <center><h1>404 Not Found</h1></center> <hr><center>nginx</center> </body> </html>
+  reset_on_launch = false
+}
+
+variable {
+  name = has-passed-onboarding
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = keystrokes-is-enabled
+  value = False
+  reset_on_launch = false
+}
+
+variable {
+  name = latest-biome
+  value = winter
+  reset_on_launch = false
+}
+
+variable {
+  name = http-request-test-value
+  value = status
+  reset_on_launch = false
+}
+
+variable {
+  name = time-is-enabled
+  value = True
+  reset_on_launch = false
+}
+
+variable {
+  name = chat-color
+  value = FFFFFF
+  reset_on_launch = false
+}
+
+variable {
+  name = chat-opacity
+  value = 50
+  reset_on_launch = false
+}
+
+variable {
+  name = direct-connect
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = video-settings-type
+  value = butterium
+  reset_on_launch = false
+}
+
+variable {
+  name = skip-extra-loading-screens
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = keystroke-pressed-color
+  value = ad73ff
+  reset_on_launch = false
+}
+
+variable {
+  name = latest-biome-entry-time
+  value = 6160149
+  reset_on_launch = false
+}
+

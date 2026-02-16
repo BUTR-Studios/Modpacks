@@ -1,0 +1,2656 @@
+hash-format = "sha256"
+
+[[files]]
+file = "ViaFabricPlus/ViaLoader/config.yml"
+hash = "1354243eaf126f31c08d5765bd00be1b4a6ce52add8b9058e104c72e83a38618"
+
+[[files]]
+file = "ViaFabricPlus/ViaLoader/viaaprilfools.yml"
+hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
+
+[[files]]
+file = "ViaFabricPlus/ViaLoader/viabackwards.yml"
+hash = "1354243eaf126f31c08d5765bd00be1b4a6ce52add8b9058e104c72e83a38618"
+
+[[files]]
+file = "ViaFabricPlus/ViaLoader/viabedrock.yml"
+hash = "3bccdf32e721c2c5417f23bdbb8acf31cbe55ed5413f504cf45cb13d310ddd5d"
+
+[[files]]
+file = "ViaFabricPlus/ViaLoader/vialegacy.yml"
+hash = "e0fa94113f3853db41731080fb5d8a2f0f44a1c00e88dd503767ba0733d929ff"
+
+[[files]]
+file = "ViaFabricPlus/ViaLoader/viaversion.yml"
+hash = "5dd86b563d7bae75bfea9f08cb7fa2057322d8a15667ed356eb0caf75b433fff"
+
+[[files]]
+file = "ViaFabricPlus/settings.json"
+hash = "47abaad002be8a6ef27c2237c562a1d25708b0362e44476a7dda1b4f8a32e8d0"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "524a734060bbd04b7aa61cc77f30957e0d13c35276774ff8dfb9d5256ebc8c68"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/SailStatus/assets/Butterium.json"
+hash = "9bf0ae3f134469e202299c9dca90e9f9fa7f6a723718362da9214f9ca1f546a9"
+
+[[files]]
+file = "config/SailStatus/config.json"
+hash = "c6b4b8736350ac4dc7ac81706297526fa6e456f0810efe46aaefca48b7c56ecb"
+
+[[files]]
+file = "config/SailStatus/lang/en_gb.json"
+hash = "8376d6d1340ac993725b9d43601a8673cffc78e2bfd2ffc183a6523d8eb27ea1"
+
+[[files]]
+file = "config/SimplyStatus/assets.json"
+hash = "4c834e75891c4f46c3fd55171e0c2ae73746a2353015dcd9248cd2bf1be542cb"
+
+[[files]]
+file = "config/SimplyStatus/config.json"
+hash = "5c3fea0a9b21a937be443712bbd6d9f47ad05a693139f8ac939ad6831f85d16d"
+
+[[files]]
+file = "config/SimplyStatus/lang/en_gb.json"
+hash = "7dbcae73a05448f3abcd69070cdeba629b3dfa49c53040fd4a039bcf858a6ee4"
+
+[[files]]
+file = "config/SimplyStatus/lang/en_us.json"
+hash = "416ff1a5af57fc9fbcb47624064af0460eb7f35b366f3f13970f093e445abced"
+
+[[files]]
+file = "config/SimplyStatus/servers/hoplite.gg.json"
+hash = "05dcb4ddb29f143a74ff8422c507383fbdab901a7a00b94223106cbd751a0d4e"
+
+[[files]]
+file = "config/SimplyStatus/servers/pvplegacy.net.json"
+hash = "64e1d3ce5c68a5875e3d243c2b7b1ecb6a4f090bcfd653590dd21bf0ef84e21e"
+
+[[files]]
+file = "config/authme.jsonc"
+hash = "e39c34a89fadfb992991cd8ad1486fb3d09fd9901a6bc034b8013efcf34eb3ca"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "9ef6937aabea4371e5ce3cbdd76009660eb0078c5490ff51fcb9c468f4e95a96"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "15531f7a7cd19154926a95515a27b325e58c20155df227f5f46ef5ffb7d1fc90"
+
+[[files]]
+file = "config/cameratweaks.json5"
+hash = "af1061742d174eb6fe622ea9f8de5fd458e008491aad0cdd5cad99021a3880f0"
+
+[[files]]
+file = "config/caramel.mica.properties"
+hash = "cab590bd358b0cc4e687218015595f0feb396d0ab62dacfe6338ed5c191202f6"
+
+[[files]]
+file = "config/controlify.json"
+hash = "91876d4f7dfb0573b7e34de96c9e357547bc3e47b1a1ee5b3e92f28762470790"
+
+[[files]]
+file = "config/crosshairaddons.json"
+hash = "74773b84c9e2d14692869bfe45d0e063c985a6742f44003db860d851146a16d7"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "ccba02041cc47c8071ead7283aa40b1a80604554324ff155b84e7c9f64f27c1c"
+
+[[files]]
+file = "config/e4mc/e4mc.toml"
+hash = "3967d3b931472a818bdb8430414c324f40f2441132fafc029fef95f89507cc8e"
+
+[[files]]
+file = "config/enchanteds_sodium_options.json"
+hash = "0bd15c40eed026f44616a1cbb02084d851fc9a2efff4a9b7ee2cfff8e9d7c4ae"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "27cc1096431de2060d6d9efa79e14593e4cea8cb7d8571f877a353d3ced0dc85"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "3b9d994dd4e6dffdbf46e8cf1af30cce074527bca6dbdb4c3efc275ac3fe03ae"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
+
+[[files]]
+file = "config/fancymenu/assets/branding/butr-transparent.png"
+hash = "aa9af9f991c6aa600bc135ce81103aae30ddc763f8c480ec18d71a0e5ba23814"
+
+[[files]]
+file = "config/fancymenu/assets/branding/butterium-logo-transparent.png"
+hash = "7e2e579b9e099d2f305ae21fbf1373ea235daf98b07e366a5312068ce71615e0"
+
+[[files]]
+file = "config/fancymenu/assets/branding/butterium-text-transparent.png"
+hash = "da353ff89c04f093008fd0a0ef5e87a8ee05059be0a741a8954ecfab1cf1761d"
+
+[[files]]
+file = "config/fancymenu/assets/branding/butterium_text_logo.png"
+hash = "27c6a98e657428221f60c038d7da6afcd9c6d49f27f94bf35ba715a7ba8d50e4"
+
+[[files]]
+file = "config/fancymenu/assets/branding/icons/butterium_16.png"
+hash = "378f7c9d9f52f9790dea852a7adaaacfa8c2f028a3afd161c3307694709db30e"
+
+[[files]]
+file = "config/fancymenu/assets/branding/icons/butterium_32.png"
+hash = "fad6ce9f112eddd1043da65277e2bb284b44840c69273a18852cf9844dd14535"
+
+[[files]]
+file = "config/fancymenu/assets/branding/icons/butterium_mac.icns"
+hash = "c62090e527170926a6e5d6cd03334c3fd836755b6477775bfd378c001e851ef3"
+
+[[files]]
+file = "config/fancymenu/assets/branding/icons/icon.png"
+hash = "0fcfef80ed44ad7e2c5efc7167d07888ae26a72c969ced2fe4dfd26e638539ed"
+
+[[files]]
+file = "config/fancymenu/assets/branding/loading_bar_left.png"
+hash = "cd2dece6ca854b0ad1c99ba28f2ebc348dd420de259ffdcc0039395e8c5153ab"
+
+[[files]]
+file = "config/fancymenu/assets/branding/loading_bar_right.png"
+hash = "2ece6713f9a5057c890a5febb7c45b08a64d522ccb303cc46e0eef808393da2f"
+
+[[files]]
+file = "config/fancymenu/assets/texts/splashtexts.txt"
+hash = "55def33093b6bd51107fcb845f8b46325ed4e086eee80d326b4f283c00dc53d5"
+
+[[files]]
+file = "config/fancymenu/container_screens.txt"
+hash = "6ac1f6b9bc32a68bb760b3cb964da9a88db5e5f6250cb8268ea3f83c29cbffe2"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "dd174e425be2db1c043e16821e141a7c606ae1c0c3b7916ca8ffbccbaf2841fd"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "3f74340deaf1989fa4d83c56e74d02ec557ef06404819492d879f623ef886254"
+
+[[files]]
+file = "config/fancymenu/customization/accessibility_options_screen_layout.txt"
+hash = "96f26f49439d4c3cb436e57dc433c7869773ec2a892a2d698a375611fba3399c"
+
+[[files]]
+file = "config/fancymenu/customization/account_select_screen_layout.txt"
+hash = "aa8a3813ca683764d9a508181f86c5918e6f5479a0a961dabf5a4950c1e96c19"
+
+[[files]]
+file = "config/fancymenu/customization/add_friend_layout.txt"
+hash = "4ae648dfc8aab9cf634cc7cea983f3f14ee5408d73afc2e59a64969ffc1771c4"
+
+[[files]]
+file = "config/fancymenu/customization/advancements_screen_layout.txt"
+hash = "4b524c8af5d87e8efc8b6893850d941cbf610b2818b40041bc7b2b6378a09536"
+
+[[files]]
+file = "config/fancymenu/customization/background.txt"
+hash = "181fd759188e2ee335f035ad9b6bb99a04c4aa9697694a1ccf9bb25cc03e3786"
+
+[[files]]
+file = "config/fancymenu/customization/beacon_screen_layout.txt"
+hash = "135e0103bc81ea6743bd997a004363f6c3db4fdf310ad324f47e54310a72ade9"
+
+[[files]]
+file = "config/fancymenu/customization/chat_options_screen_layout.txt"
+hash = "2a2844b6200cc3b421cd629dfafbf1c7b7c5353254a1c75f74c0c6af5620bcaf"
+
+[[files]]
+file = "config/fancymenu/customization/com.terraformersmc.modmenu.gui.modsscreen_layout.txt"
+hash = "38c05badbed335c2cf1c43708f058a684cf9daa3a7e67e8b2ee879aeb3cd3706"
+
+[[files]]
+file = "config/fancymenu/customization/com.viaversion.viafabricplus.screen.impl.perserverversionscreen_layout.txt"
+hash = "217a98aba1144115abc417391150ced261aa4a811305d3e8cf1c0527e3eab67e"
+
+[[files]]
+file = "config/fancymenu/customization/com.viaversion.viafabricplus.screen.impl.protocolselectionscreen_layout.txt"
+hash = "f1e8c61ede64850f9165c4f3485c1db39c47ed36620cc8ec3a51c223ae8325d9"
+
+[[files]]
+file = "config/fancymenu/customization/confirm_link_screen_layout.txt"
+hash = "f691980225a381a45ed73b24dbca7d15789b2bac61a9da65ba1af3d72a539c03"
+
+[[files]]
+file = "config/fancymenu/customization/connect_screen_layout.txt"
+hash = "d9d7c35960a22d276a7661751b507b8d49314ecfa2d5b1b996a975bd35fa9898"
+
+[[files]]
+file = "config/fancymenu/customization/controls_screen_layout.txt"
+hash = "ae0eec184a3567c88a1fe279f306325ec3906ed185e96069df34dbd80ae111a8"
+
+[[files]]
+file = "config/fancymenu/customization/create_world_screen_layout.txt"
+hash = "ee5d588bba70e9a9bce2384e1205e8d26e359b94c0720f5812ae7b8433f2704f"
+
+[[files]]
+file = "config/fancymenu/customization/credits_and_attribution_screen_layout.txt"
+hash = "ce8864b8cb607559df9fa23a81de69c04a6e6afbe9a8b148b3189ad7975dee54"
+
+[[files]]
+file = "config/fancymenu/customization/custom_video_settings.txt"
+hash = "bad4fea5bcf74c8c75053969aaa392f798300d088712c33e6d9c3477975427fb"
+
+[[files]]
+file = "config/fancymenu/customization/de.linusdev.oneworldfolder.myselectworldscreen_layout.txt"
+hash = "a15a10c4090c6d3b56b391f96f9ca7133cab564673e435013917403217cf132a"
+
+[[files]]
+file = "config/fancymenu/customization/de.maxhenkel.voicechat.gui.voicechatscreen_layout.txt"
+hash = "15ed404888aad0017da082f56d837f4d6503b378db1e939ea9d4f7acd25a9d20"
+
+[[files]]
+file = "config/fancymenu/customization/death_screen_layout.txt"
+hash = "62ead81fa7f94147cb8f8600aa59df4d38d757148371c8552121aac65076ab03"
+
+[[files]]
+file = "config/fancymenu/customization/direct_connect_layout.txt"
+hash = "83f0a16c8502100e5fe8fa8e4706c2330cfb1205ffcd86b740f9914297798c43"
+
+[[files]]
+file = "config/fancymenu/customization/donation_screen_layout.txt"
+hash = "8419c4c90bffad1388e3f7b99f6d957d1b118ccf966d1e1ecb687ad8b1d5b1f7"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "9bb3cde04fe4a84bee46189e2c59abeb5f2a2e2e3c907035ebafa69ea6a7b23b"
+
+[[files]]
+file = "config/fancymenu/customization/eu.kennytv.forcecloseloadingscreen.titlebridgescreen_layout.txt"
+hash = "6240cc0de16a60490a642fd9280ae5d8331738f93795892cc600db7ac54884ac"
+
+[[files]]
+file = "config/fancymenu/customization/friends_sidebar.txt"
+hash = "bb7e273152311b20fbbf43b4556f0dd627ae4c37cd2515e146302ed4af36844f"
+
+[[files]]
+file = "config/fancymenu/customization/friends_testing_layout.txt"
+hash = "c0cdb3bdab7d15b412354e357c7c339a004a2877b1d22b34721662e570a1bf89"
+
+[[files]]
+file = "config/fancymenu/customization/games.enchanted.enchanteds_sodium_options.common.gui.screen.enchantedsodiumoptionsscreen_layout.txt"
+hash = "402f432a12f2b33d9296b57257bff716f9161c2b723fe5f34b6bd106d8840bce"
+
+[[files]]
+file = "config/fancymenu/customization/generic_dirt_message_screen_layout.txt"
+hash = "b7b8d41a647c7f8564a9c22f3ab7e5b740592754a63fbb7b0503d82ffaf17776"
+
+[[files]]
+file = "config/fancymenu/customization/graphics_mode_layout.txt"
+hash = "2a395a847054d73c380126db90d29be7b12edaea574fca6c0c37370b82f935eb"
+
+[[files]]
+file = "config/fancymenu/customization/gui_customization_screen_layout.txt"
+hash = "1c2ba1c2dec709c66477ece2b2fb8d07bd1bb54cb12533cea3a40cb5a488e16b"
+
+[[files]]
+file = "config/fancymenu/customization/heads_up_hud_incoming_layout.txt"
+hash = "b4a79f8f53d25be97d51890d83b77ee2245ea2bd19ce39fbccf5cca1da0510bf"
+
+[[files]]
+file = "config/fancymenu/customization/heartbeat_and_status.txt"
+hash = "d503158e8498cbda893f56f5a8b58364831874b29a33cd42e4d7b4b568066644"
+
+[[files]]
+file = "config/fancymenu/customization/hello.txt"
+hash = "e334c809d601809ac3056d26e8b6b4f29d353db4c7272ef63c60ca012a290a8a"
+
+[[files]]
+file = "config/fancymenu/customization/http_testing_layout.txt"
+hash = "5d827d347f8c3401726f9b7d00e7789b3ee03de80d56f797681a4f45f577160d"
+
+[[files]]
+file = "config/fancymenu/customization/hud_customization_screen_layout.txt"
+hash = "0bf29d3fbec30020c41c1a5e287373c21f7cdd2bd0dd19f49e80e8ee7a56b9c1"
+
+[[files]]
+file = "config/fancymenu/customization/inventory_screen_layout.txt"
+hash = "971c2b434df9a5842e5019e0f50e19888762d84609bf21fb2a5dcdd86a4169b6"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "d834233dcf1e69ce4ef08140cc80b842b5be7b918bb91d372f6682ab2755782f"
+
+[[files]]
+file = "config/fancymenu/customization/level_loading_screen_layout.txt"
+hash = "1f2b1a4a0b09fd8816d5bdc4823cd7f86e1b808dae4f5c3533b9e119e8340804"
+
+[[files]]
+file = "config/fancymenu/customization/me.axieum.mcmod.authme.api.gui.screen.authmethodscreen_layout.txt"
+hash = "d7314b9b5e2365e6cce8ef6d345d5a384b4440cbe8e13557deea96909903016f"
+
+[[files]]
+file = "config/fancymenu/customization/me.axieum.mcmod.authme.api.gui.screen.microsoftauthscreen_layout.txt"
+hash = "8d6dc9dca2c41df18efb988dee53af18d1c75f0f144503bdf87ffb2a69e9e0fd"
+
+[[files]]
+file = "config/fancymenu/customization/me.axieum.mcmod.authme.api.gui.screen.offlineauthscreen_layout.txt"
+hash = "702d95fb29e00484fc028770d3c5b18ffa36ae0ceb9e1d2ac3f8d58004dcc6fb"
+
+[[files]]
+file = "config/fancymenu/customization/me.flashyreese.mods.reeses_sodium_options.client.gui.sodiumvideooptionsscreen_layout.txt"
+hash = "ca1b2b297e977294122e62724062beef982481ed01c385f63400349e8f7df2cd"
+
+[[files]]
+file = "config/fancymenu/customization/mouse_settings_screen_layout.txt"
+hash = "68c1976edac84c6d980041a656f223ece84cbb49447e7ff676bd654f4229300f"
+
+[[files]]
+file = "config/fancymenu/customization/net.caffeinemc.mods.sodium.client.gui.sodiumoptionsgui_layout.txt"
+hash = "89bbed6a430a00a0c0d5434f8bf1bf5a38957bf755b7ba5055c604857a6a9516"
+
+[[files]]
+file = "config/fancymenu/customization/net.irisshaders.iris.gui.screen.shaderpackscreen_layout.txt"
+hash = "eee8bc4eacfd6e6e7daea10b552055ecfcd6233e780fa68eb292f0b9d1100da5"
+
+[[files]]
+file = "config/fancymenu/customization/net.minecraft.class_6599_layout.txt"
+hash = "c9f98ee94fbe9a6f7775ef43d14a7e56f0009a110b9f1877a46b04377e8b9684"
+
+[[files]]
+file = "config/fancymenu/customization/net.minecraft.class_8671_layout.txt"
+hash = "2ca935cb3d37ca18c26d57e3b48d6b6a7d7c3a584f1e0fb0466ce4cf5b8460e7"
+
+[[files]]
+file = "config/fancymenu/customization/oneworldfolder_error_layout.txt"
+hash = "70d507892a1b411754db0dda2f3fdea9506e2027c3f4e809a41c3ece9a550191"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_compat.txt"
+hash = "75d1c4ba63a80f765d9c2268cf0d5dc2b0021c32abc603c656ec5d2c948c1ab3"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "bc23d1bee8d43b873de54f2d0b2fbe42ea22b81dd2d36defd5791c6976d8bd9f"
+
+[[files]]
+file = "config/fancymenu/customization/outdated_version_warning_layout.txt"
+hash = "08af98b6835a49db74e98bcb99be9f175782168b5c6ee9b89f502a60a98c093e"
+
+[[files]]
+file = "config/fancymenu/customization/pack_selection_screen_layout.txt"
+hash = "fc7fa1eb426aec63136a547abaf879c916692bfdf57046c75c24576f2a06d7c3"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_compat.txt"
+hash = "6f1faea038f4c94e3c89d262c441f82dd3870b816d48a1661a88d72288980f33"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "849cd106e1af960cc56459e8ad7fccb5592322813ac3230c20837f1800b3866b"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_mobile.txt"
+hash = "51985a113f46196e2945c68ccb8bc485e2ee3e3b8902bb4feb03bcd3d7d2b331"
+
+[[files]]
+file = "config/fancymenu/customization/profile_viewer_layout.txt"
+hash = "652938e854e6b20983e29fc29f5dcf08b00061833982edb3f44d59a03f17605b"
+
+[[files]]
+file = "config/fancymenu/customization/quick-connect.txt"
+hash = "80612e90a651fc6422d9b5032950e14a19043d578195dba79161b858f1a12023"
+
+[[files]]
+file = "config/fancymenu/customization/quick_connect_screen_layout.txt"
+hash = "6f08e502fc62a45225b053e9cfe70392cbee512ca53619b1ec86b35e0fde07c3"
+
+[[files]]
+file = "config/fancymenu/customization/quick_settings.txt"
+hash = "0dcaf97d244cf7f58ecf96604fbc1d9ec4cfe34194091c4811e8b5cb5df27352"
+
+[[files]]
+file = "config/fancymenu/customization/receiving_level_screen_layout_1.txt"
+hash = "7972876388b12a4a029b7e55aac9bf7840dc82dcebf6e5b08fe8dc231d7d3918"
+
+[[files]]
+file = "config/fancymenu/customization/server_management_screen_layout.txt"
+hash = "0aaa5438e99d2acb0dc7ff80a92c43ccfda800b5b38d788a5a03a9b353cb3ac6"
+
+[[files]]
+file = "config/fancymenu/customization/sign_edit_screen_layout.txt"
+hash = "dc6fab3557c43de45205f9b1cf9675cd95f7d2b126fe0acaf7d974839b40c641"
+
+[[files]]
+file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
+hash = "e767482a8d6e8e6f3112b1af3e2923ef860100d8b2ee0346394a3408ec53f089"
+
+[[files]]
+file = "config/fancymenu/customization/skip-extra-loading-screens-compat.txt"
+hash = "731e60eab7c7f6418334b6f96252af4147628671eb7f85334be8dd68c7d087b4"
+
+[[files]]
+file = "config/fancymenu/customization/sound_options_screen_layout.txt"
+hash = "37df21d2a3d1ccb2ebe3b2317d11bae045a8dd9647c239e054405b0302356615"
+
+[[files]]
+file = "config/fancymenu/customization/spiffy_overlay_layout.txt"
+hash = "98244593a52ef73179ed5ac7924a3b213f8d6b79f49b4367f40924fe7b9d6531"
+
+[[files]]
+file = "config/fancymenu/customization/stats_screen_layout.txt"
+hash = "516944fd74755af0dbcdff50e0a740233c8023104c8b6edace25af81a326a2f3"
+
+[[files]]
+file = "config/fancymenu/customization/support-us-widget.txt"
+hash = "e373de346b534701e6af9d01c2956a48586975ef2b5a65be6e4c5775744e9d5f"
+
+[[files]]
+file = "config/fancymenu/customization/support_us_screen_layout.txt"
+hash = "d5e5d5766ce1d14704c5b7d363592aaa05bdfdf77885c50a645108282b36dde5"
+
+[[files]]
+file = "config/fancymenu/customization/template.txt"
+hash = "f836d964891939a6f65fce5ef8ee1fda967a6d73a83b74c88f5c4d3a5ac0d063"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_classic.txt"
+hash = "d872251c9b9036ef2583c8356b86909e6afbf674c938b669e1496ec48a059460"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_compat.txt"
+hash = "50e6e972f5d2503048d43aff5d0310cef0c67989477766dde727458e2cbc0a30"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_modern.txt"
+hash = "6402228eac102e5d21f6c679573ecf5b9d17829ac9fcb384e5074b073fa25c1a"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "3cd74e379cd4109443ecc1cee566a4242920ae7ab7993372001ac7cfe28c5899"
+
+[[files]]
+file = "config/fancymenu/customization/update-and-mods-checker.txt"
+hash = "db1e1991a165a3da77cf7e14eb47054c98e04315420b6c28ac748d3bdfd9e17c"
+
+[[files]]
+file = "config/fancymenu/customization/video_settings_screen_layout.txt"
+hash = "745558bfbfddbd1b8d72428cc76f13b161b48ffe391c0c236ccd3a2b368a910d"
+
+[[files]]
+file = "config/fancymenu/customization/view_profile_screen_layout.txt"
+hash = "fd7c0c43a9e129fe3d7b766a2b661f7174afeb2222c13ec8581ab9a5d4f595d2"
+
+[[files]]
+file = "config/fancymenu/customization/watermark.txt"
+hash = "7b6d63e7a1f3983fd2ba12c922223437ea22d115c5ce2908f7dba3f032ec473d"
+
+[[files]]
+file = "config/fancymenu/customization/watermark_container.txt"
+hash = "f193c00f4712903bbc2e816faa8393d233129e4218e9df5165a8d24cfcb49741"
+
+[[files]]
+file = "config/fancymenu/customization/watermark_pause.txt"
+hash = "7e133ae1cec5c50fc94821032f1a0c3bb61b9d9511e33b61da881ccf316496ed"
+
+[[files]]
+file = "config/fancymenu/customization/watermark_sodium.txt"
+hash = "1a9d9665e87bd2fca3e24ac8e08167f1c46e85ee46a72c044228c630e7622820"
+
+[[files]]
+file = "config/fancymenu/customization/window_corners.txt"
+hash = "544337d052e2f7792d81a3ea3dc73aee726d571002b9675509632e2670a0df3f"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "3efa6747b4429e4a0098f9e4ffa09b596eaa14f205e92f20d3689fa07e92294d"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/listener_instances.txt"
+hash = "4b830c98f0c542d33cb80e6b31f571ef925fe8f005301db3ade3735eed5b6906"
+
+[[files]]
+file = "config/fancymenu/loading_screens.txt"
+hash = "5e9481a600a3b63e05664c80287a6d3d49679ddf81bfae8378f2322ccd00b234"
+
+[[files]]
+file = "config/fancymenu/normalized_scroll_screens.json"
+hash = "73e7005958d0db4b0d92ed248c777698742a19cd314fb7c9440b61c3d24effb7"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "8b10bb195a8ab6272747e446803edcb5f6850a7ae6f7a9405aac50148738fe49"
+
+[[files]]
+file = "config/fancymenu/ui_themes/butter_dark.json"
+hash = "d2b6ec9cf43040ff1ba7348ccd86bc938a7c847220745a3e2857f6f4bf5c3c83"
+
+[[files]]
+file = "config/fancymenu/ui_themes/butter_oled.json"
+hash = "39e9337fd333b62192d5f0dab45bf873fe36c40846a4bf0cb39ccdc5d97f0249"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "f083b2956031f8afc1fd74d05f01f4936b970830d15b968173debf5230a916d5"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "ee5e57efc830721df1aa1db95191a9d895665099ee24f209a719cb34df3a4eef"
+
+[[files]]
+file = "config/fullscreenfix.properties"
+hash = "23331b8103df859f223b08e0a44af22c7b0bf436aae1fe94d2fcb77177a1e017"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a9e48ca067af995b6b24eae2da33250ac56c4342c1d98b5b2e263bd42d7b72ae"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "9a6417f6100bf5bb42bb020e275321dd3bc34e2e9574f4513a54bda70da5f371"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "928fdb1e604e394de7389a4b7a7f230fe6863a468e1839bee22d80652ea0d31f"
+
+[[files]]
+file = "config/mcef/mcef.properties"
+hash = "5e6093fe9a6266ced8fbb52af841d72ef8869b10a2b02b3d2eaf335cd4a33333"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/mod-loading-screen/background.png"
+hash = "9fff2c88219176ed9798712dfaee122f005b2f69f657dd89879016899ded3303"
+
+[[files]]
+file = "config/mod-loading-screen/config.txt"
+hash = "2a95eab5c1c28fce535601dc21fe761c6b212a42d4d1ac797b3e20a523ca6008"
+
+[[files]]
+file = "config/mod-loading-screen/icon.png"
+hash = "0fcfef80ed44ad7e2c5efc7167d07888ae26a72c969ced2fe4dfd26e638539ed"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "99da3e09eda28db38c278bfbb2dba1250f4b828ba9df781c2a36ad181873b55c"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "1288189cda21de12dadc972e2509a0c3f8717c5d6c20d59cce04395306bf8aed"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "e107843f120a9ed64cd27f1a012edad7746f1680d3b427e80f20cd301eaebd70"
+
+[[files]]
+file = "config/noisium.json"
+hash = "3b6acdbc5ce36d9a81fb2a889760b5eb9fd88683cb06e234eca92559ad151329"
+
+[[files]]
+file = "config/nvidium-config.json"
+hash = "8023640e370c430794dcd6ca84ed077e25b2f6d69cda253521558eb81ff939f2"
+
+[[files]]
+file = "config/oneworldfolder/oneworldfolder.json"
+hash = "3d73bf778e4850d5983255dc44d09feab28645ab8445f7699fd01dc905d40c15"
+
+[[files]]
+file = "config/phases-discord-rich-presence.json"
+hash = "84be6a5c313546b951266b4d105a69ffc3de5f7f71e792cbee3e705064e792a9"
+
+[[files]]
+file = "config/reflex.json"
+hash = "5099af140f76e660ea63c1147cc9839c5035cf18a51ed0380b41dceeecf2cb2f"
+
+[[files]]
+file = "config/renderscale.json5"
+hash = "277843119e316ccb76c9dbf0e9131dcd0c4e3b5ec9052b8e192e508bcd5099de"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "ba023dd02e9966b3a0fa6ab9b09ff547933c848ae67042995134c2b224fd8cbc"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "7e483e8a3984c8008fe718a984c8a1b12ed5eabe6ae491d831ba85f4fb4eaac2"
+
+[[files]]
+file = "config/resourcepackchecker/resourcepackchecker.properties"
+hash = "f5370c44c6d550547e803d980ffd2ed9f1edc6c8f1933e1eebd16d56934532c3"
+
+[[files]]
+file = "config/resourcify.json"
+hash = "10de8ac400e676c99b70aaf45aff86ce36147a67c4f05a43007e0a662612640d"
+
+[[files]]
+file = "config/scalablelux.properties"
+hash = "deeaad93693eabf9053d88363adef3db28c2c90cd3e45dec3f9948eff350a6c8"
+
+[[files]]
+file = "config/smoothscroll.json"
+hash = "e44f6397625435716dc150fb984ca82b8344e6f926d9b5d9a5a8729c10373f38"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "4ab8dc8a5624b42e543f5827c0dd5b30e5bf5ff8320a356a2120d1ea2fe7336b"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "f70a6c0a291424ac4178f14ac41184c2972417f3e28be811ec7fff87cad7853c"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "9d2c2bce3798415be18fb9b6f6b3330c0b3764c1f62af725d7119009ebfe1164"
+
+[[files]]
+file = "config/transition.json"
+hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viaaprilfools.yml"
+hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabackwards.yml"
+hash = "61ad6266ee051f5d2cd8fa523d464fff4d85add173a079a0054ab4e987dc9e81"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock.yml"
+hash = "a65346a97415ad5a6260b64a8882d9f4aff6375830ee423e9380d2dcd7114ecc"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/000005.sst"
+hash = "897a2e0bd4636eb3b483b4be282e8a88c14cd428cb1438d318530131671a6ee5"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/000006.log"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/CURRENT"
+hash = "0861415cada612ea5834d56e2cf1055d3e63979b69eb71d32ae9ae394d8306cd"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/LOCK"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/MANIFEST-000004"
+hash = "0d7634dfa65b50da5e83dab73f24ab218a16964f47785fb5c2caf3b64a4c2651"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/vialegacy.yml"
+hash = "93457a4d731ecf9fcbdd2fa592ae2156ad88e649e39a647714c091852e365aca"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viaversion.yml"
+hash = "a40116353502fec34e39a44ebc8450c3b006e12011c9af613f13a1c74ce23390"
+
+[[files]]
+file = "config/viafabricplus/accounts.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/viafabricplus/settings.json"
+hash = "b105f09970b4bbeb244affc19368a626137ceeb655dd907c78cf6419a1d4f305"
+
+[[files]]
+file = "config/viafabricplus/viaaprilfools.yml"
+hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
+
+[[files]]
+file = "config/viafabricplus/viabackwards.yml"
+hash = "3e49085419bf6d5fa2dc5256b775d7bddadd68b3c49ffdd612c96bb179b8df01"
+
+[[files]]
+file = "config/viafabricplus/viabedrock.yml"
+hash = "faa2318294e9ae0ded2d836be486c2ffb184f7831d6c2594c501a6b5779369d4"
+
+[[files]]
+file = "config/viafabricplus/viabedrock/blob_cache/data.bdbd"
+hash = "8855508aade16ec573d21e6a485dfd0a7624085c1a14b5ecdd6485de0c6839a4"
+
+[[files]]
+file = "config/viafabricplus/viabedrock/blob_cache/index.bdbi"
+hash = "75aa85525f796be89ab09fd64378b7d21a3cb487c999b2dfe6fb232b7cab2dd3"
+
+[[files]]
+file = "config/viafabricplus/vialegacy.yml"
+hash = "3c8e3c8cc81284f56e9e7e1209dc6a4eabdedcb15beffcf0830fbf4f5946acd3"
+
+[[files]]
+file = "config/viafabricplus/viaversion.yml"
+hash = "a83d41b8745a93c366c4ff83407a39015ec5e09ffd28066991ba8555ea218750"
+
+[[files]]
+file = "config/vivecraft-client-config.json"
+hash = "6144784f25b3752dce678e4e93553cc28bb487e0d6c0973c7f643c132c3a23a1"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "9f81e39fd9e34f67500f25f6468f1c33dd8050510e8335c26b639d013aad3d2e"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "8aaf62e64c9d449660c4ad8ff0bed8e4a1c24d7b0bda5adda4aa1c19fa4ec45c"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "43dc20061b946d1d9bad872cd0a521f10a56ddda5091a91257643a8e8a53ebb1"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "62ecdb9297d66bf1ec14ba3129fafac43286a9c5b3c6423b4e9b47169b9dbec1"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+hash = "24e804dff5edf511c0df4a8ca4e4e8683be82a36e801134c3a6e2d7b7240cf0d"
+
+[[files]]
+file = "config/voxy-config.json"
+hash = "b2a337975ff8b3fa70839280baa496c33591d5a8a58c6e167d4dbd6095db2b05"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "139784dec1158a8da468b64b9d9b44a61d3c8eadaa5d7a8530f02be6a9625660"
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "1562c21781759f538378d67275bac4497dd15b68b85d13e9c5b613a1ba46cacc"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
+metafile = true
+
+[[files]]
+file = "mods/borderless-fullscreen.pw.toml"
+hash = "6360769000e3d99497ce4c5bb0b6f021c75cc7b28d9563ca2f9159d5445b9f5e"
+metafile = true
+
+[[files]]
+file = "mods/cameratweaks.pw.toml"
+hash = "9a6db360f55fa3d76858497059640b7ebe2f08b84b6fed9ed3531f680b87bfff"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
+file = "mods/crosshair-addons-public.pw.toml"
+hash = "ce907c287c097274dc53e799471d0d747e542d75a329d0e488f8148921678142"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "656016c90b099a0c1620f6453e753015369d7e02be378c284aeb74307e080cdf"
+metafile = true
+
+[[files]]
+file = "mods/enchanteds-sodium-options.pw.toml"
+hash = "2632c0d333a46c2114e9baf648618918678af46747a5def49dff48aa71e9c8ee"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "281dfa2e0e51ce16433e31d1ba6e1db9fe2fd038bfeecd05a643c294163a4cb3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+metafile = true
+
+[[files]]
+file = "mods/global-options.pw.toml"
+hash = "46ebc1ce6fbe881f6e7061e3ee64664ba2fa31afb128a878a46440b45ea7b180"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "2c8f1f08da355faa45fd5215a1187af1a6250dacf41eaaf80786055216a87caf"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "9ba08ebdb00a63de04192fc17a58ae464fbd477c97e678e9c01ab3ac15eebd0e"
+metafile = true
+
+[[files]]
+file = "mods/mica.pw.toml"
+hash = "bd3eff8c6572b35c91c754cedc738917a377e61128e974e71c8400c9719043a7"
+metafile = true
+
+[[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "147f3fc9a0fa837fcc2a7fc21fd01cb6b46c6fd842b1f40c20f6066d239d0e72"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0544fefc6f04f2b408b2c6b4dd3e4bf7d0a4048f1fad6ddf63357549d7446165"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "e2690ce7e51e74527ead933b1aef4566c84d2a4d0d482edd9e329c8a2a06963b"
+metafile = true
+
+[[files]]
+file = "mods/one-world-folder.pw.toml"
+hash = "0ca8c3efb14fe579d81e9d2aada908f373a7bf9bb6a1dfc8ccf26c3037595a7d"
+metafile = true
+
+[[files]]
+file = "mods/phases-discord-rich-presence.pw.toml"
+hash = "b57b3dd91d5c6d5b0020ba33896fcdaeba44e5a24431f13f4d6fecf94395f4bb"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+metafile = true
+
+[[files]]
+file = "mods/reflex-antilag.pw.toml"
+hash = "17ba386493e0d461c2fbc1d2abe4d89bf5f735348809fe005964791c13674e0f"
+metafile = true
+
+[[files]]
+file = "mods/renderscale.pw.toml"
+hash = "b4c4f1163795d12bb392a2645b886b6afc6e7b3e4d28af4968a6ca0c74fcb606"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "5beb483696cdddc56fd80223e02293430634c7307a1c8d5d5d29a94c1d9178c9"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "8c3caeb7c006e6661782245deb0c25d7a4c1e6b29acdc35c9dd8ee25e874eb93"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+metafile = true
+
+[[files]]
+file = "mods/spiffyhud.pw.toml"
+hash = "bc0475b7777c0d7377dcd13c3d1cb4237ad67042f9a4a96c4c95e7c2933112e5"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "8216a46c6b22fd9918cf835b87f7ea7a26ef02496a5162de23db9474de9408f9"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
+metafile = true
+
+[[files]]
+file = "mods/walksylib.pw.toml"
+hash = "a9430f9074c470dd140d35ef21ee6a92f63511345ba5f7e0e9d8fa77ab0f327d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "67b32dc9d72f6a551546a8c4fe58de261a7ead3a089e5a8e69cdbcd96077e0a1"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/experience_bar_background.png"
+hash = "09e84dbe770dba8ec4e694d6a85a905054d90059b1ef618f04a5b5569ed9460c"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/experience_bar_progress.png"
+hash = "1f97caf5641a7372a911a288c59ed797b3848f3c12983290de44c869be3b6cee"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+hash = "7aff45a8876c5c46d026700f5f1d66b6d273b3bbf9ce847674ab9015545a8fc2"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
+hash = "7ae9599686f052ed6eddd8b1f8d1cbed144bbc0c69fad6bb552c81c0dbfd0d47"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
+hash = "094405fa4d3c11138575998d0abde34ac51c359e54979a2a3fa1fb3029bc9ae1"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+hash = "9444cefd7b395194f8abc26b08900111c03987f0e0794bd79c63ef084b780198"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/jump_bar_background.png"
+hash = "fd4bd0fa51ebcc6e7514afaeb08fc46ea2cbcf07aab1cfcc263a016d80782c23"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/jump_bar_cooldown.png"
+hash = "c566f871a7113c649bce983ab7a833f46a2ad4166b690dee8320c7c2ee87f67e"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/jump_bar_progress.png"
+hash = "b01e2974d7a5bc8d31224da9ecba657c4a928c2578eea21b26d624c5022051fb"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/assets/minecraft/textures/gui/sprites/hud/locator_bar.png"
+hash = "0f127777925d26deb300e6aa8028ad3e651e71e92727f35c7a4ea4d675c2e4f3"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/pack.mcmeta"
+hash = "a343cc0731b4ea452ce6acbdebd9cdbc75747d02e8581df0f85b145c5f12d045"
+
+[[files]]
+file = "resources/resourcepack/optional/ButterUI HUD Extras/pack.png"
+hash = "dcc20ec69f08269131b61a79a121f595522a5b7a8fa75059603cea3098ac7f66"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/ancient_debris.json"
+hash = "4fc51c4021da85b67b0da43ad86bb860da8973ff307cab12357da88bd5be8666"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/copper_ore.json"
+hash = "f087e2afdbf09a38d2c15f67770e002852b288673107b1e096c78ce73c9c3293"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/deepslate_copper_ore.json"
+hash = "1bb0210f3031af0d0ec7555f445531ae032ba9f8239540c8672de69d85e56ae3"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/deepslate_diamond_ore.json"
+hash = "ac6ec4898e7e5572a88a99f463a0ea821bd78c6b98b176502d010b54db06d425"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/deepslate_emerald_ore.json"
+hash = "1b1a502e466fa3aaaa6ae2b5cd85ac370602525c95a22bcd83efd32ee42888c9"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/deepslate_gold_ore.json"
+hash = "07565d7876c23b6eec58749f012468f67f94a4f34566db27ba15922e6a4ae6b5"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/deepslate_iron_ore.json"
+hash = "d2b7d9779ef8d0d90b3cd8fd33ce9e40622679821a4ca9e8d44896533317fd88"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/deepslate_lapis_ore.json"
+hash = "5f5fea0bb3c60848fa64fc0e54de7c45d7123a474453cdade01885b9e1aa6fbe"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/deepslate_redstone_ore.json"
+hash = "d455b6e8330ed6ddae1244a75733552b0f4e318a2fcc4fad9a4b3c60a2b1f650"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/diamond_ore.json"
+hash = "f5b11385a618aef38712b06377aaf9b9f404bfe56f6dba4a5f2be0350fc0a251"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/emerald_ore.json"
+hash = "ae1d7dbf6b9b5665e03f7a962f9d011221a0632579100e086fe52e3dbe9caaaa"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/gilded_blackstone.json"
+hash = "cf6310449c5fea8b0cf33ef51dbf8219196abdd81083ab5f725b7962c58706f6"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/gold_ore.json"
+hash = "6e56254179377d6529f742f65af4a108700da413ca6c41f09e03aa1a975303e8"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/iron_ore.json"
+hash = "14b2ca8c1aae7e3d1fc056289be5aea4f503564a82b3f631bffcb684ab102f18"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/lapis_ore.json"
+hash = "2b02dab07d300789fae2e60fb00fa85dc5102373c5a562524f996d1a9df5a6f4"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/nether_gold_ore.json"
+hash = "bfe929bb5edff5c94e9f018638a5d4e88fcffb7ac686948b7138baf3d9c58a41"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/nether_quartz_ore.json"
+hash = "ad59749f7ada15b48bb27ea50c981cec6ee130720fc3b2125b0ef7685835117b"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/redstone_ore.json"
+hash = "c9b6a0c08bde5a401e5ac57ccd2cefc08111fc5a76b720171965c2bdf9c8dde5"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/template_copper_ore.json"
+hash = "e9592423ae4104e6763a8ae232ecbc11c9325fd634dc6d36cc50ca501d0aa40b"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/template_diamond_ore.json"
+hash = "bb2091f6681149c2c258ee50125491b6263f316214f665a5d58123c19703e234"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/template_emerald_ore.json"
+hash = "3c341e99b459d8e02af6ebf6153e30d2d9ba2ee22e1a888762d1460ecc21fd7c"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/template_gold_ore.json"
+hash = "6c33dcb7d078eeaf31af2a79e5533f1c54733153ba51b41707cb9e4581c2a99c"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/template_iron_ore.json"
+hash = "7495476e3347c9e3028a8017fd7d671db92c8ec36a81126a419fdae2422cf2de"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/template_lapis_ore.json"
+hash = "b53e13e2a5ca3c0bb4371f90df8f48be9110a56c46abc10d5f67f50969515b95"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/models/block/template_redstone_ore.json"
+hash = "df994b5fa780b17656265db2494192a953f6c844a8b69ed68b21b6442c06c16e"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/ancient_debris_side_glow.png"
+hash = "fd802a17adb39173add2eb0cd24ff0fbfbd23b9ff4b93e7c2868afa5f2df13f4"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/ancient_debris_top_glow.png"
+hash = "dff3a84c4ea619f76f62b7e6876714305636d580d6d52fc61076063c1e616a00"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/copper_ore_glow.png"
+hash = "4b60b0fade8867a74b892ea7611a2f61a5d3b05eef199c105d93cd2c3492f302"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/desktop.ini"
+hash = "20d6f01c7e80df40be1b6a3f06885d91a33c41420c3315064f08fabcc1d0f0d4"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/diamond_ore_glow.png"
+hash = "1a7a003ef9da0cb5bd37e1e0210ca9de3408db4e36fc2ac60d63dd936aa5389f"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/emerald_ore_glow.png"
+hash = "08da2d426fce4577cbb47b3d0b0613f2ca84f5543c749a763f1fb638f0e2d114"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/gilded_blackstone_glow.png"
+hash = "e7bcb2358f5f49f24b9a5c2d4018629bde59b6c4dc9cd668132508d538b956d2"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/gold_ore_glow.png"
+hash = "db9635137a7ba6f92d7f7ef81b4137194c39d9a889448b8097efdce44b41d379"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/iron_ore_glow.png"
+hash = "286ddc28085b33ab6941af8b0357540b471ccadb08065e7a9a2e65421873cfab"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/lapis_ore_glow.png"
+hash = "3b6f1e39f36b9287e20595bea22ebe82ff1b62c990796350313b45ca5999467b"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/nether_gold_ore_glow.png"
+hash = "187b782d21522c78e5b1cc0b20ffde7ab902837e1dc4a74344e21be4bcb273fa"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/nether_quartz_ore_glow.png"
+hash = "766d1905982c8bb6a383031e2ae06f95e71066a252e28b89cd3e3895a2eb91ef"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/assets/minecraft/textures/block/redstone_ore_glow.png"
+hash = "f3b443bc1ef7d736436d34e5b2d4f3ed9b0e8555373c1994d791e3e7eaa27ed9"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/pack.mcmeta"
+hash = "77bfea4c6233d39d34fba667e1f5bc048f831616cffc523f08cb91d053decc45"
+
+[[files]]
+file = "resources/resourcepack/optional/Glowing Ores/pack.png"
+hash = "2a2f2d213ad450914ea3a9597f9fd413a82620506dfc3dd9b94ce50d8234aeef"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/CREDITS.md"
+hash = "972e95c0be0158ea93c5e5ca440be2ff03ec05d8e6bad186327c45ec7f1c54eb"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/animations/connecting.gif"
+hash = "79da5a8cffb49e63cff6351257f639da0becc1313390c1bd00a58520baf17f5f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/branding/minecraft.png"
+hash = "c5bef823dc27ae44cd39d6cefcddce0a6535888d211c99dcefeced66a7b7af0f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/branding/minecraft_title.png"
+hash = "2fce39f7ddb7f421b8d9e416f92a021a3b54675381a49463306fc99dc80f1b0b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/hud/widget-background.png"
+hash = "c8be15d8c222d076c117c76822c2be299e773bfde175e4f1ad426f780131e91e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/circlecursor.png"
+hash = "5e857566ec3501cb61c3891582384651d9984d36ad988ca8dbe82285748aaeae"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/close.png"
+hash = "fcd61192f4d5649f43572222717786552f00a08516bde416976e1e13a3d1739c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/cog.png"
+hash = "9dd62acb45b6bab9eb9fb9793ff6d65e0e3fc92ba7cf02654ad0c34374eba32e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/enter.png"
+hash = "1c61401738191f18b48f63005d849c6bdd67d0009c18833fc41e925ea9273171"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/friends.png"
+hash = "62dac344342f55e8b62e4b7547fd7b61ddebe214e7f5200312d6d555d658614a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/heart.png"
+hash = "fd9998b813bb643fc3276a67167aa956a607076b569f9b7a6a81a15c38788ec9"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/indicator.png"
+hash = "6777cb60c573bf8e1631b535a1ceb50292044249a4d610aeadd6416421db4eb1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/language.png"
+hash = "22a866ea1644c5af8111c41350fdf71015e983f32acbb39329c96b74486e93be"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/macrohard.png"
+hash = "c37207b240071709682d0948a14e9dcafd4269475025a4e0327bb3f91d2c2ed5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/modmenu.png"
+hash = "d7bcd5fde8f42eec3f127b3e42b9ee68144a50630200b44f8759e397e7022990"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/nochatreports.png"
+hash = "0c3e718d9da5c3102cb8e3ad24eb59066293cae4953ba1eb7fbdd2e5f0eb21b8"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/packmonochrome.png"
+hash = "64c805f532718c4e4201b9bd66525923dc9d80db0f2f13ae02532b831ca9a17c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/peaceandharmony.png"
+hash = "d3bfe0ada2185c9e674ccc0c00ab928161840b206aba6cbd6d0c75cc66f98f29"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/profile.png"
+hash = "6fc0d9438a3498ebbd532262d90e32b13d693847607627b6949dc166e8bcd834"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/pvp.png"
+hash = "b0c67f8f0e52db2ade636b967dcddc111c9b9bc05def58748fa95b8b94e10f1e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/refresh.png"
+hash = "b6286d5ebc1167c83df2d60237f8d3545512e1b1e600e62da50fbb4245a89cd1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/statistics.png"
+hash = "8842e6aca3fa55c52537cf3fe48e8aa7c51a9da02361590082889470357b8891"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/tint-boost-hearts.png"
+hash = "84dfd100aeed54939e2d445736ca7470c0db76dfa8aeefe2b86a0ee6497c56eb"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/tint-regen-heart.png"
+hash = "2affa448b52b0f8de4d129de93b7050f6aac8bee88d70d013996b665044cdc25"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/wardrobe.png"
+hash = "ca55e9869f95b7cad9e20f2c7a9471093d97bdd5e1e762ae039974ee7a073dc4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/warning.png"
+hash = "c1bbb6d1430a1ddc0f96d1ed9fd1b5b496cc3b9cd2c33f89aded8c9cb6ba6f46"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/icons/wifi.png"
+hash = "90704ea864d7da6785093e5936417def6540e7ac5f73d568a11429f8bf4c9d6b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/onboarding/hello.gif"
+hash = "1c65073d17e89005ac00b3bb69b17bcf3f42742e9ff43416f20ce041ca83c284"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/onboarding/launch.wav"
+hash = "de035f149aa6225a534f7dcc5b371b6432fd42bc99d9edbb69cfb9c922a795ab"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/other/blank.png"
+hash = "5e89879184510e91e477d41c61bd86a0e9209e9ecc17909a7b0ee20427950cbc"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/other/corner-left.png"
+hash = "980be8b3765db056f6deb434c26c459de5c7d4b4ed38864cd90a656948feef86"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/other/corner-right.png"
+hash = "2b98889d58ad43049f29699af8c50f65957051852a347d5d6324810a4716f32c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/1.png"
+hash = "bdfceebfc5c226362a8ebc9b13de71ce5477d567150da4733d07e17a930a4111"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/10.png"
+hash = "cd3b1925565afd9bb65457f96adc0d78add93caec302d6c12a5b4726e38472cc"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/11.png"
+hash = "5702dd0bd828edede67cdfd13cd1431521133f824165849b85cbd14ef0738313"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/12.png"
+hash = "eb9d87a3e821a0a973503206e0c4681a44fcc5879a0233f460a81d3b3a3da76d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/13.png"
+hash = "49e1761f026ab1c28f2c72c336a4463b3dff47f228e1274006bb8781598279a1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/14.png"
+hash = "cb96dbd306224a02714f32d3e04fa09505a5450b788af8e4199b6cd9ef30c215"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/15.png"
+hash = "718307191bdb39be3a319d2becb0e8e26419d6414ea9cd3e23900b556f223de5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/16.png"
+hash = "df4b7f0447db10db391716d7bf285f75cc584f8885e8ceb0a2bbe4e9704eb78b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/17.png"
+hash = "5598e3c1bf88552e4b688ce42dfbf542831d07ff037736edd845d8300ada901f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/18.png"
+hash = "5971e2529a90def7ebc4e0ee2cfe2b4246a79290b923e920b38d818363a4809c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/19.png"
+hash = "266b10efe4f9afcb8ffb146401c8b6dbdd77b74c8f920387cbe1c5f2d6a6debb"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/2.png"
+hash = "3ef290d9c4e6f5671769a99053e60ea16e651dc6aae36b579f4391247158f6b1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/20.png"
+hash = "af4a8d52921b8fe2bca17921baf0254f5d6a11e762d66e938ae8a5d84b6e649f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/21.png"
+hash = "06ea56c4c54a4ee6235a09af4525bf6ea4038f0e612ef6c209d4d9cbdfc3024d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/22.png"
+hash = "d8db3b10810638822c86407b277b6cd79f75ee247ba41e666dd979c77b5d3289"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/3.png"
+hash = "101644d38b49f66c93ac5cb44d5e33c7b65feb9add46c10f84fa5b6f6b5f52a6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/4.png"
+hash = "74d463e94266cffc19f62b7af35953b8c4ded73e84b864a085652b4c15129b54"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/5.png"
+hash = "3a5edf9b8da0ef60e7d8d510769299dbe90cfadd3d083ce61c144c3a83d01892"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/6.png"
+hash = "bbd6e5bccac028835f73c97d4544a5b653fc9b259e95725ece2609ad1a87ea28"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/7.png"
+hash = "a0e6fa451405739de5737687ff998c9bff5ba5aca657b948fc4afce82208a413"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/8.png"
+hash = "0a8f8e748bd06f24bb25ea1223b6a25687155eb20475354204d906401266136f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/9.png"
+hash = "28b25d039bdeeefc8872f1521a112cd2affa09f06da0f3a43c5c769ab9da7d9e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/accented-background.png"
+hash = "8638423fa1586d7c7f7132fe1c0be0e2d51b73ce999398b7eb256487180ac098"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/background-nineslice-3x5-light.png"
+hash = "1f1c19f6efe4585720363303463440b67746773275878f95bb62da85ca570b53"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/background-nineslice-3x5.png"
+hash = "a82711b465e0e7676f55a8fdec7c6d2a293982a11c0cb7bb1e89bcc7c5a4742d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/background-nineslice-3x5_OLD.png"
+hash = "5c6b584ecd5fabf0c0590681f54adca4e673c4fde133fbb6fee0043f18a95491"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/background.png"
+hash = "a82711b465e0e7676f55a8fdec7c6d2a293982a11c0cb7bb1e89bcc7c5a4742d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/background/inventory.png"
+hash = "93d85b18dcaf9b22dc5382877a126bb6496563edb7bf70c860edd06f2a80a5e9"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/buttons/button-nineslice-3x5.png"
+hash = "a810028073e28430b31098e5313bdda139d87d6233e62ace54359baaa41208b9"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/buttons/button-nineslice-3x5_OLD.png"
+hash = "5a5121e72fba8933c862f90f4c6e7d85b7c32ff53455b36e711a6d03238594c1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/buttons/multiplayer.png"
+hash = "9a9c94b9814d73519c971ddd5a68c787a329249c104c85de8bac2bf6f83a046a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/buttons/singleplayer.png"
+hash = "ea1f9b7091c9eb56c9359a3a9872ab7b813f86eb0f0648bf7c76d2a4f407f154"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/buttons/slot.png"
+hash = "b5daf5acad7db32a51cc7a3e1c6dffa75eaef9b1b95375630d745135283413a5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/buttons/transparent-button-nineslice-3x5.png"
+hash = "f953216255a4a3641caa6bb4ec0cd5f54d94491cb9ba386b7b31fef27807abb5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/0000ff.png"
+hash = "38e09156061cdf4205a8e081b1d9079a5b3ca77bd86dd552ca1537090a62f7c8"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/00ff00.png"
+hash = "f91c536b445584c7d9192e9d00ace32bb175d3b51459e695713f38d04cfcc5d3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/00ffa2.png"
+hash = "883f1d4b9f5f4a0df3183091febc80477644f1255441a54639840a88db17f8fa"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/0da100.png"
+hash = "355ba3b39efebfdf938bde9281472588d25d25a5abc8ad1766104296b025518f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/262626.png"
+hash = "6c2c538ef060532a442b6c98e5501da41d433eb89d184bd56fcd2bbfd26dd202"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/27b0cf.png"
+hash = "51e3f93f3feb98b69fbeec4fd36102fcfa8ac742bc28b6249be8407640297207"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/2fa1bd.png"
+hash = "01717394fe4ebd45b94190e19febf75730fbd3ed9d412da2ffb73f3ffb251e5a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/3388ff.png"
+hash = "b7280910b3f709b1bedcd59c9dc9a3efd8cb5dc57fc0252845f46aef4112685a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/3be2ff.png"
+hash = "75cbe78419b07502f9a4c52877de4e5983f8025438672c6d7e2b20c3bf8fd19f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/5865f2.png"
+hash = "a83721510fbb78f50697c87f007ade170a7e962cd07d36a836d928e706a3bb1d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/828282.png"
+hash = "83df4dd8f6cb3f2ac9125b16e13c61630b8ae2715e162a7c58a625cece78e0ee"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/ad73ff.png"
+hash = "08cb77e22005a7f7db603d61ba3da6eacfcd6eb5cac67d5d47a36a12b9ba0a2e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/b30030.png"
+hash = "a546a9dfea9fa1c1aa0f1c722a79c7a3b2799b1e6bc377298c88d140e369e047"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/button-nineslice-3x5.png"
+hash = "83df4dd8f6cb3f2ac9125b16e13c61630b8ae2715e162a7c58a625cece78e0ee"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/c300ff.png"
+hash = "daa7730a432d11bfbc238ba49fc63367ae72dfa24fced1163fc4a46c1b91ea37"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/ff0000.png"
+hash = "b56295b20e4875e9b8bd8d9bc6c85f4abdee40c943cd9ad9f106305fe737e7c7"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/ff00c8.png"
+hash = "620f1b3e1634d34de6341702f4402069f9f6e0cfce35ad70c129ad2a39d6c4ca"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/ff7b00.png"
+hash = "53ce4ec1992f427a0c26f536873f32a3059f8b30bcf83484d38b071ab063e028"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/ff8280.png"
+hash = "d79f8c2b6609487ecd43843407a89da25a46f9431ded7a62db625eafa0e30790"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/ffcc00.png"
+hash = "feb5efd12776aacf12ce6154b940d465ac4dde4a774bf1bf4f8056657c4d08c8"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/fully-transparent-button-nineslice-3x5.png"
+hash = "232d15d6177927ddfc8727ed857c006ab672ebb34ed335f8c043a2f2201abcb3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/hover_buttons/transparent-button-nineslice-3x5.png"
+hash = "5fc756e4a80b54904bd6ba293ff083ec904a78b92f9bb03b247d1038423398b2"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/innactive_buttons/button-nineslice-3x5.png"
+hash = "ebe2dd5be953ae86eb13593de1b9378e2ca4b83020b6009b027d570f03d6e453"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/slider/slider-nineslice-3x5.png"
+hash = "a4366359fac1016ab7d0bcf83db4e1469f71de07568627451d6c90feff90935e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/sounds/close.wav"
+hash = "6422a5b2269ccd726acebca42a02daff396d179e25fce7fec8b3080f6ca9bcdc"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/sounds/open.wav"
+hash = "b92069e11f8d3f54a34f267926d0536c466734e13aa688009f8f1ec7a08c6cfb"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/0000ff.png"
+hash = "7af8252469d7fefb794343be4ffd9593587854d7c4461982a42f9783072a97fc"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/00ff00.png"
+hash = "8499ae56bb908f530da8f7863e91045b272c63bb036e638888b6854764269449"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/00ffa2.png"
+hash = "39c5867f39abc78d27a8491099f9739c0971e6bb587490b88ede126c67655d58"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/0da100.png"
+hash = "cc062d3679747628a61cbedc61ead8366c347284c0c5dae57c5093c516850461"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/262626.png"
+hash = "b115de2e1ff4f202c7b17a926f1b3e8dad31630647f9800b9e916de164f3e2bc"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/27b0cf.png"
+hash = "d10202578f8577263f2e510eec94af585707ae1e782fe32dda541964a2a55f44"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/2fa1bd.png"
+hash = "06073f1a44ab0e08a093c76a19afb9f926f0c8f355f1010aad8f5dad6004c0f8"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/3388ff.png"
+hash = "08963b6b46391b6288343ed430ef4a6edb2eb2c21e0e91acf8f9fb52426963ad"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/3be2ff.png"
+hash = "998cabef144e1eda85290883192b4f80d2c5e6f4a1907a30b13312cc87638ee6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/5865f2.png"
+hash = "5b41e891a4dcac8491d5f998a05a251ab27d1de76f5a21911214ad17b58a61f6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/828282.png"
+hash = "464e672d80011e4631f345e250cde3d0a9cf84e4e79b3607dabceca51f794923"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/ad73ff.png"
+hash = "2d32e4990b30ba78a3db1615bbeb03867f8653a414e200d0edc29c9f691d1340"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/b30030.png"
+hash = "ca8af796190b63f0ac414c8e6b4e20afef2072ffdc9cecfe96e7173b8f398f79"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/c300ff.png"
+hash = "c4e799fb246b3785f3223fc7527c2b56e5f908168fa5bf9662be277cf299cf9c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/ff0000.png"
+hash = "a6a0d7b434fbe21d5018069cb097bdd37c97007f409b9ace756e63c985997d59"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/ff00c8.png"
+hash = "ca40d35517182d116da17e39bf589c0f735237daa11b581b44f5ca788c7fe3df"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/ff7b00.png"
+hash = "afcf8cbb20b964b894437e5230a011edacca8b52078a088c14e331bd9b82fd0a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/ff8280.png"
+hash = "2524511f16ec348a31424ab304dafffa8ac663ad28df507da41dae0e2cfe376c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/ffcc00.png"
+hash = "aa9a5ec8c1dcb5b0a667ca05430e9664154274877c02f839a1803faf5cdfc0b1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/handle-hover.png"
+hash = "0396dc3cb75d13d237499ebf0f9337e3bae335cba83a1b72f4df1b59bec37e35"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/handle.png"
+hash = "1f1c19f6efe4585720363303463440b67746773275878f95bb62da85ca570b53"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/butr/ui/switches/off.png"
+hash = "8a4be655e06dd1eb1976851520deb9d47e58d43650f0a72abe8ba6d49b5837d5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/lang/en_us.json"
+hash = "9e041478d2b78da3b2da6a30e7aaa91c118a3b3ffb69c3ee8288f834de6421f2"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/activities.json"
+hash = "3ae03850476afe3cc60a62402f6c87e136645238342ce3f2a47b499495a6b7be"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/all.json"
+hash = "7e66809299df1722730ed7114e97f6543a8951214fff25093e70afb53113e8b5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/favorites.json"
+hash = "82843ae8638cd65689bc895365983d6f0b3bd2d1717609f0e3c2317690caec70"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/flags.json"
+hash = "1903c558589b349f36c6d87044efff67704827662b93ac7933749232f82bdb3b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/food.json"
+hash = "a9c036ae66a4d482a4202cffe567d41780ca5687fc2dc1fd5b28195c892803c0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/kaomoji.json"
+hash = "c96c55b9f45887a9002db4616404c6dcc272d5d3d973acf92b605d00affaf53a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/nature.json"
+hash = "d377fd3c1207bfb0c60898c020f883b208b28b2d02be302447d6cb98f525b923"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/objects.json"
+hash = "fe701dadc600e70979706bc57a0399530aeac29064a623eedcf608ba967f70a1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/people.json"
+hash = "bab072932cf3b4ef6bc0be7c1a6a65a915eefed0bedeb33fb99321516b661c1f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/symbols.json"
+hash = "43bedf58b74cf17cbb73246d43fc86a607416154e5740646083bf1bb332c4e95"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/tones.json"
+hash = "b2f9d16c326e19c03781814c78660b18c885a46737845dcb7b9901a3fa29d5f1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbol_tabs/travel.json"
+hash = "379e64b422ac0972188c46b940993fec3ea6de0b63518710cdadd99194d0dde7"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/activity.txt"
+hash = "d566908b186e448fe38c84133b634aace564e67cd705d49488ee8e9b65c0bfc1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/flags.txt"
+hash = "bc0e47e32aaa448260ae039e3de5f5d2053170fbb0df60d5d7f1df7744f37c16"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/food.txt"
+hash = "1fc147004a67fa0982eb583e051db0bc88f743c922e04ac81cd8f9bcf9bc6d3b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/nature.txt"
+hash = "d00111b5840ca80e9bc45f2b6ddc1d762bf3e68244456595880b346e3a817a5a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/objects.txt"
+hash = "4bfc3d53b2a81b119ef1d6e2fcafb01d0914860489c4c6c94060158e8b730748"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/people.txt"
+hash = "8ec90ce8f6099ec37d1649ab67229b823b6433bb45a2ca38445d8617934f4226"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/symbols.txt"
+hash = "cb5817b3bb031b02b58e4b994fbb7a86c36de47831d83f12789ef09ac51b4ac5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/tone1.txt"
+hash = "336f21e61e0a02de6f16221ea3d0d3199f6b8e56c1e6337cbb08a6fc10fd435a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/tone2.txt"
+hash = "e5210ba2649d7ae90fd8649092e900431a9abe6de184a1900c97fa790ccacba4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/tone3.txt"
+hash = "4a4cff743dd7b0bb5147ea2097a9f98f848c477afa2362dc533d2fd4e53cb061"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/tone4.txt"
+hash = "df26bd2f50d62137281a4055eb03e529aa15a0ec11a45765fcd51db87b9c9ce8"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/tone5.txt"
+hash = "9c9c7bc7472ee64e545d68035293d7fcc764f034a1c7a00a5412be77dffefeeb"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/symbols/travel.txt"
+hash = "8036c1fb2273040811066f9e9a2913d3fed492fcb6f264880a7ead13742623b5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_categories/textures/font/categories.png"
+hash = "9409cc70310264d495cceeeae7d34ed5de0a73ee5a84992d05dc03c3548fb217"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_remappings/lang/en_us.json"
+hash = "3d5fc6021327fd83b27b2a2a7268da25a524a6e4445f2fdd9b82482de4b2467f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_shortcodes/lang/en_us.json"
+hash = "3f8f3086e7c41189f002f4fd2305c78892e3dbd412fcfd55f1d31507240d1b22"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/emoji_shortcodes_reverse/lang/en_us.json"
+hash = "8d9f18f8f93461a32f4a5d8eabf8fea95595425b0d9db81e3760545d890ef58c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/fancymenu/credits_and_copyright.md"
+hash = "b5ffbfcea76e3bb820c3b3bb0ad03270c1e37aad0cce5b78ba8540026ed3f743"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/fancymenu/lang/en_us.json"
+hash = "db8f0dd14533b60bff609887d390c8b9496fdf218a5948e889b373db87adb5f4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/fancymenu/textures/menubar/icons/close.png"
+hash = "528c50e4accb585e06e4d64e755a59b039faef41d2604196147ffdcd50468670"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/fancymenu/textures/menubar/icons/fancymenu_logo.png"
+hash = "f5b1e6ce919de0c510b074e7e56b897ac161d37cd48a63338d93aa066f32d3b1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/iris/textures/gui/widgets.png"
+hash = "ca4026f0e7b51ec74a563f5fd3da80d9074b35998fd5d7e8ba46111e3c190d96"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/font/default.json"
+hash = "ace664948f80123536dac9f1e9c0f71f5cd38ef2dbf436de2b54e5b67520606f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/sounds/random/click.ogg"
+hash = "70bc5ea6abe516c81fb09b07080aaa8c1edab715e80646c1980de320bd75f618"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/sounds/random/click_stereo.ogg"
+hash = "70bc5ea6abe516c81fb09b07080aaa8c1edab715e80646c1980de320bd75f618"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/advancements/window.png"
+hash = "56f71cd3b2da8dba7960e067565f3de1c925191b3c8be02d12e5de17a15e924f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/container/gamemode_switcher - Copy.png"
+hash = "a7d95f52d84d11204ec3e363995cbb8dec15fac381e122f0d9bbb5200b78844f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/container/gamemode_switcher.png"
+hash = "94da2f5cea298779cd3daad459297adab28229226ad3995347feddaeab371886"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/demo_background.png"
+hash = "c1bc4eb91e05d9ef6de45973ce0dbb6521cf16ebc45dbfa5f13373dce1c974cc"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/footer_separator.png"
+hash = "462d6c3e22a633323358f5d28009822450b3b844d058bd579ff8139506f4dd85"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/header_separator.png"
+hash = "c76cd1196f2b2d30e86fdab66e52db82987e3d4954452fa863d0e329f39f59ed"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/light_dirt_background.png"
+hash = "6df58ad2089f90e24c2d83f39546f56f2d130c368e99405a310461ef6aa8ecf3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/options_background.png"
+hash = "8ddc78e5e4cc2132af06d06b7b3f7f482789f80f253149b859687ee4538b1bd6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/box_obtained.png"
+hash = "6a2c9df639b5c467d5438fb88f097ab91a73e61e43de6d39b9befded68b48fff"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/box_unobtained.png"
+hash = "4d6ba3e38d50da78012d78919e70ee9bf4accc5dac4bcb2116e54dbe17671c3a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/challenge_frame_obtained.png"
+hash = "77443069e9ecf2faa9a245e0a21a2b68c9b14f72111fa7519b733d06d868bad4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/challenge_frame_unobtained.png"
+hash = "afebbac452ee8bddb9d47cd4d0dc220d17cf0177e6f5a41273e28dc54e526d05"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/goal_frame_obtained.png"
+hash = "5389c9209dafc7e227ee50111fdb4a20fadb32a1c9bf9f4f99acbb4368adac65"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/goal_frame_unobtained.png"
+hash = "bb90098fa8f8bf75254ee434c4c6a3beee84a0589164c6493fec02547021737e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_above_left.png"
+hash = "270b1c60cc09a486ae0c8c063d66065aeba59e1e70ba5823986f655fd4cf0e2d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_above_left_selected.png"
+hash = "92c3045c227d96adca4e95a24ac6aebce4a1df5e9efea2068740b361abeb667b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_above_middle.png"
+hash = "270b1c60cc09a486ae0c8c063d66065aeba59e1e70ba5823986f655fd4cf0e2d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_above_middle_selected.png"
+hash = "92c3045c227d96adca4e95a24ac6aebce4a1df5e9efea2068740b361abeb667b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_above_right.png"
+hash = "270b1c60cc09a486ae0c8c063d66065aeba59e1e70ba5823986f655fd4cf0e2d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_above_right_selected.png"
+hash = "92c3045c227d96adca4e95a24ac6aebce4a1df5e9efea2068740b361abeb667b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_below_left.png"
+hash = "e91c34b1c6bc8e0e0cb1d85225fc1969094939b5985a3f925478ee46246939d6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_below_left_selected.png"
+hash = "37d9551c1a7509b52d40152b49a6835584b21da8ea5aed6e7881611bfc871e2b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_below_middle.png"
+hash = "e91c34b1c6bc8e0e0cb1d85225fc1969094939b5985a3f925478ee46246939d6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_below_middle_selected.png"
+hash = "37d9551c1a7509b52d40152b49a6835584b21da8ea5aed6e7881611bfc871e2b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_below_right.png"
+hash = "e91c34b1c6bc8e0e0cb1d85225fc1969094939b5985a3f925478ee46246939d6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_below_right_selected.png"
+hash = "37d9551c1a7509b52d40152b49a6835584b21da8ea5aed6e7881611bfc871e2b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_left_bottom.png"
+hash = "64ca814c8722c5e836ee5f02f07e52f6108a21302a9a511836f3aa400068d30d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_left_bottom_selected.png"
+hash = "c164f842479c610b254ee4cbc6d45fafc2530ac029a4007ae24de18622c1ffa0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_left_middle.png"
+hash = "64ca814c8722c5e836ee5f02f07e52f6108a21302a9a511836f3aa400068d30d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_left_middle_selected.png"
+hash = "c164f842479c610b254ee4cbc6d45fafc2530ac029a4007ae24de18622c1ffa0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_left_top.png"
+hash = "64ca814c8722c5e836ee5f02f07e52f6108a21302a9a511836f3aa400068d30d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_left_top_selected.png"
+hash = "c164f842479c610b254ee4cbc6d45fafc2530ac029a4007ae24de18622c1ffa0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_right_bottom.png"
+hash = "9ebc2bc8071f60cd448b72afebf060c201c37c4d78306c0e78557c745279d1f3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_right_bottom_selected.png"
+hash = "92f6dd1714e20761b300baf0ba045fbcf124b3ce9b25083b54c00e4a2f1273a4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_right_middle.png"
+hash = "9ebc2bc8071f60cd448b72afebf060c201c37c4d78306c0e78557c745279d1f3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_right_middle_selected.png"
+hash = "92f6dd1714e20761b300baf0ba045fbcf124b3ce9b25083b54c00e4a2f1273a4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_right_top.png"
+hash = "9ebc2bc8071f60cd448b72afebf060c201c37c4d78306c0e78557c745279d1f3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/tab_right_top_selected.png"
+hash = "92f6dd1714e20761b300baf0ba045fbcf124b3ce9b25083b54c00e4a2f1273a4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/task_frame_obtained.png"
+hash = "05e49267f0e84ec9ec32bd5a823532c96f2a1b4cea6d0093273e4851b6a9c5d4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/task_frame_unobtained.png"
+hash = "400705d69acfe4d8db5744c06e435d6038ff4b54b225e51e93f9de70f14208ab"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/title_box.png"
+hash = "0eb390bbd5f2cf9d22941ce21277be3178fd1365bac953b008311ba04eb49dcc"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/advancements/title_box.png.mcmeta"
+hash = "35116d4370f3c8ba7baba990c1155e839a93441251f2fa56998a5a7f17299f15"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/gamemode_switcher/selection.png"
+hash = "c1d7c66a2f1059f4023d20a9d7ec493bef1268683654777caa3ac13a814a2902"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/gamemode_switcher/slot.png"
+hash = "d9723907627dae5584319b755bc079ee3b59fadfbeaade9eb490e84834aa4914"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/hud/effect_background.png"
+hash = "f9b3ac8790cba4fe540650c653cab6626890fad142713428e7d921999c0249e0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/hud/effect_background_ambient.png"
+hash = "39cdf731c7e9cb5e515806cc4e5bcdc7b506924faa1f74a9a8ccf79e51d4487e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/accessibility.png"
+hash = "4f74145cf665e0524eb0c2742f2ba9ba4aad19c73b70a47dcc16a4b6ce87c073"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/chat_modified.png"
+hash = "5fa1b5b75f7a26c5c7d4f8f4bd3c766f70833c6abeec9302c5d21ea8faa9b5ec"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/checkmark.png"
+hash = "072a638d70bb3d7b9d8b82d86b9d76081847838550612da6a4dbaed2a1350643"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/draft_report.png"
+hash = "d9ab8fb9acd12018e46e5dcd9c0f9b78c90dd23d2b8a4747081fd2a282df64ff"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/info.png"
+hash = "8a58d506c9fb1c347ab5c4894e8b797d1f8318328dfdcc8dafa7ef4a4e350de1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/invite.png"
+hash = "077f9ca931e23f5d288ac206774e772f8bf6debb1b173b694f2933050f1b22c0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/language.png"
+hash = "a34e9c2c1af87533cff62559f083a467dee9b0549ba1d451d344cbf751a95dfe"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/link.png"
+hash = "7797433591cd7b915378bb6f6e83f685d4df24f6d7c2eb4008d1937964ee4122"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/link_highlighted.png"
+hash = "5b7c459bafa259f42363a55868218631327918249a58c9f4be2237e0c0a6cb18"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/new_realm.png"
+hash = "7df4a11c751ee2051cfd74d3cea476d386930d7ca3883f3aad40aef49574937a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/news.png"
+hash = "f19fe4644662e853ed1473a35380db0ccad5abbc1aa092afad1ccf1c81c0f240"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/ping_1.png"
+hash = "470f2b3833a86730e97e411e5a940bd79a81d090269ba9e43967c6e1f914561e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/ping_2.png"
+hash = "4b419f7c0506dd80db01978a7f01b1a573e0839fc33fee5b1106696be894ff43"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/ping_3.png"
+hash = "c7c4622d454a3d65823b26500c88fa67a5152ae76103d08dad2531e4b7a79712"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/ping_4.png"
+hash = "2d34b800e397391858fdfdb4a4c1255e9eecb7cf10f849ea1a6c5adfc12decee"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/ping_5.png"
+hash = "1d6b39b53175fe38a46802f6d16b38c2b8cc5b9cbc0dcf0cce1e033531d4938a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/ping_unknown.png"
+hash = "aa6f19f7bdf999dcda6dea493eebef9a285b0226a1dabb985bbe6d64bbfedec2"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/search.png"
+hash = "84bd4121b544a08d3bcbea914f4fe6708792bedd46f8c35f47bb4c3a39ae0b35"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/trial_available.png"
+hash = "4699c7e8f6921e02bbcac4c255b12cc5bca8373657b6a02f084ff6f913afe7d3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/trial_available.png.mcmeta"
+hash = "48c80293f3f3e7e5c18df7cfcbfbb745815b8b35d0a438250b1c22532cbcd580"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/unseen_notification.png"
+hash = "afe71e9d4a1d7375dd81a9d0ecef4d82e7a44783117b626269b972c365182856"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/video_link.png"
+hash = "821bd681f589f0a93a31e14765b5529f75f6ab1a21c426f273814b2fc48a9e07"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/icon/video_link_highlighted.png"
+hash = "b8023c5a9cba680155d3e32bde9a582653fb3f4c716ffd9b794a538236083ea0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/popup/background.png"
+hash = "611c8dba1c4ed65a8c13b6a9abe186f618539e8638f73d0dde7d29af149a42e1"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/popup/background.png.mcmeta"
+hash = "b552ee01037bf7870b689fb27fbb3d6edc1386006bad7ff318ea20c7be376762"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/join.png"
+hash = "ceba01e30cfaf406a6bfee48c66f484705f213d1e93ab6788640d6069d62a775"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/join_highlighted.png"
+hash = "e4e3913410094f295a263634d92153795b7012ff92c39ec68539f14fac094169"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/move_down.png"
+hash = "99a3c9901c17c708c2c3941264c5b16f2b73a60a57c09d5e894cfab6cd9a82a9"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/move_down_highlighted.png"
+hash = "545dc8ffafff889cfec4f0982c315188cc20fb3d4b4aa12fb4986cb598aa0443"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/move_up.png"
+hash = "26cf8767deb7636607b73c5f4e1119b78ec7cbe8a96b4a3ef9fff1fb1d2acc88"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/move_up_highlighted.png"
+hash = "cce760efa36b80fd6233ff5c3dd76c4c8348b00c70f437a57826ba9f44aa4645"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/ping_1.png"
+hash = "470f2b3833a86730e97e411e5a940bd79a81d090269ba9e43967c6e1f914561e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/ping_2.png"
+hash = "4b419f7c0506dd80db01978a7f01b1a573e0839fc33fee5b1106696be894ff43"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/ping_3.png"
+hash = "c7c4622d454a3d65823b26500c88fa67a5152ae76103d08dad2531e4b7a79712"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/ping_4.png"
+hash = "2d34b800e397391858fdfdb4a4c1255e9eecb7cf10f849ea1a6c5adfc12decee"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/ping_5.png"
+hash = "1d6b39b53175fe38a46802f6d16b38c2b8cc5b9cbc0dcf0cce1e033531d4938a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/pinging_1.png"
+hash = "3d31091687814545de82a7dbf1323c7acc02e1329f763719246d1c5a39ec80bf"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/pinging_2.png"
+hash = "e6bf7f213b3bbe04cd9166e469c01659cc6f26dff405ebc141d6e8448681cba3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/pinging_3.png"
+hash = "169e4d5522442cb53875fbae4bba1bdc200ef4c288eac0de1d19ea8c1d3fe11d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/pinging_4.png"
+hash = "03f4690f114b2aafe6c75b41fe69e2ef10355d7ec089becf28ada2a6f50cbae6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/pinging_5.png"
+hash = "9cdc809334f62086f2671c7cab26413c744b3980d69a88f8618f3bb34abeca1f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/server_list/unreachable.png"
+hash = "aa6f19f7bdf999dcda6dea493eebef9a285b0226a1dabb985bbe6d64bbfedec2"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/background.png"
+hash = "ee2b620661ffb6083c5a05f3687c76eae57547d766bb56597f61e0ef289f5942"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/background.png.mcmeta"
+hash = "f237695eea17343c6e8ee950cd0373b41524169f9cc578846bc88944a610da42"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/mute_button.png"
+hash = "3d7fefc67bc314bb84957422051322a2661bde6b9a4cfdfd3f3b66691617a390"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/mute_button_highlighted.png"
+hash = "336b64ced8cf289bfa466ce994cc6a171c839d8f4251db14409ac358e6d199fc"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/report_button.png"
+hash = "4664145d5d20520ea0fe660c902002b8070b563beabb183e2194c8dbdfbd521f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/report_button_disabled.png"
+hash = "5106036686f836179261bf5f88971d7180fe818572a825087ec4c61ef0dfd953"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/report_button_highlighted.png"
+hash = "e6b56795c38266393428f3b9b7639a578c1ee2955251bd09ae063a7507814bb9"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/unmute_button.png"
+hash = "7893907917353e8515430b3b1619630124805209cd188a12eef631e1ec9bc130"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/social_interactions/unmute_button_highlighted.png"
+hash = "4d49a1bb886da681ebd43139c55c78aeab41d5aa51f6fbdb20e37d5220410b90"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/spectator/scroll_left.png"
+hash = "b96452e8abe6d255ccedf47a8e11594aa83cff74eaa5e8fefc17a6674d947efe"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/spectator/scroll_right.png"
+hash = "be1d2416dd27cf3abf122e8675b25ecda3f4a1f38b4c9c07bfcc8b2bd669a18d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/block_mined.png"
+hash = "e3816f79018c1e24e75c09436aa6d60e3a97bb923fa785e31cd409982e17063d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/header.png"
+hash = "68f75195316459154b15b36663ddd607cd54b7011bb46db47fa0fac52cd65d38"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/item_broken.png"
+hash = "876f41fab90639320b001d9206f3c8d26326fb1c7a610bb4f1f579cf4e2a81b2"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/item_crafted.png"
+hash = "e539bd768907bcf8a17030c42677d6467795d821d194feeb4525ee130a7798b7"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/item_dropped.png"
+hash = "f320114cd4f794c7719e38be54f3ba7354b304379bc778f660d2cebad9c6805b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/item_picked_up.png"
+hash = "c2ead430b9ceea956b56605c21dcca19d7dec6fffd815dfda625d66a3fe4b165"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/item_used.png"
+hash = "2aca63b253809a5d0c2a7d26c69195703b95147b071fdb081ac8343ff661f21f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/sort_down.png"
+hash = "ea941683ad5f560e019384bd2569322870fca76b9e5a158492e88f66fe5d1cf4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/statistics/sort_up.png"
+hash = "38424f274b15000b41415667e7b20582c423f062f404dcd78fe4c95e295f38c3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/advancement.png"
+hash = "36dd3015d0e2a21c65fa9aa087ca6998bd8ab969ce0da61dee21c063f812e28b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/mouse.png"
+hash = "e6b2936467e82fa211011dabb9070dc5792fcd44dd8800399d81e358cecaba4c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/now_playing.png"
+hash = "36dd3015d0e2a21c65fa9aa087ca6998bd8ab969ce0da61dee21c063f812e28b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/recipe.png"
+hash = "32f24dbf10f1c27160999f6253998128ca64b41e3e4739c9936b2455a14d11ef"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/recipe_book.png"
+hash = "d23adc546b09a19c8e0c1d698b0f95f8c56072bf10bf83a7f59639408605ac0a"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/right_click.png"
+hash = "6beeff177662ff54ef90dd955dc5c36bface56bcac8ded14ddf3e1f26e880d45"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/system.png"
+hash = "be2508603c12f219cebc27186ae8671a495f8f6fef23f2e1cfff3ff012d00b0c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/tree.png"
+hash = "bdc3be9ee4eb84d9337707555a12d8e3bb53970497eb37dacdc44af672e3a284"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/tutorial.png"
+hash = "32f24dbf10f1c27160999f6253998128ca64b41e3e4739c9936b2455a14d11ef"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/toast/wooden_planks.png"
+hash = "43d5603309de030c2dbe92ee0e4f1470677c07bc3e93bf1b102cd7ea0d7f84fb"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/transferable_list/move_down.png"
+hash = "be825e1ea93588d58ec045b26de94a1483450c87aec9f1219ca3b4013b583fe4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/transferable_list/move_down_highlighted.png"
+hash = "d075e16de20f1f61b5a5124b0213f7df5fbd8e2e83fddb6e8080a8ae2fd1e9d3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/transferable_list/move_up.png"
+hash = "83fef6016a840bb9f0bd6f2ba290de968ea691bd224b12885f208a9ad8fb52bf"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/transferable_list/move_up_highlighted.png"
+hash = "cdc96ad36e627950652908b4c3c23b6c9569155fad5e13cfd09ac8dab274558f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/transferable_list/select.png"
+hash = "9383a7f768ba74d59d1b385740e1c84e41031846b88fc06d8885707a28737260"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/transferable_list/select_highlighted.png"
+hash = "8af0329286ebfb3ff0d86c7599fd071cd67fde7762ae9c493221d2488d6372fe"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/transferable_list/unselect.png"
+hash = "32ba597e8e4886335a730d400b0f9a30ac9d4f9f86068358dbaad3dc55936b81"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/transferable_list/unselect_highlighted.png"
+hash = "8c2b85fb113861a32fd33f87925d39017ff8e3fa7a47e74bb15cbc1adab6d720"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/button.png"
+hash = "3079abeab81c91a02ec4519a71622cfc1424b3b3ec843af26603c82bf4952af0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta"
+hash = "0037eb068ee6c898c450c492188d1c972c98b77a62124194cd5e959348a9db24"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+hash = "dd716ec90186d3297df4cc6858f5bb4b934f4bae0129b7ff9e7f57d90b6e582b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta"
+hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+hash = "1febfbb569f672bd32e372de4094f9314ed3781e22766c143942746ca3b95227"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta"
+hash = "e64e0c54070b45656477174d527a2f943f45ffac830ae5e47c6d67d03c10d4ca"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/checkbox.png"
+hash = "1a43bf5ecc064a3fb3f3d41c2d9caaa95172bcf05242225644fba188f8ba9ca0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/checkbox_highlighted.png"
+hash = "aaf0fc4d2b4fac7bc319fabf526d504119a6d63e9cc73760bfa52a0428307af7"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/checkbox_selected.png"
+hash = "7f454e6d6ca69161ca49bdbd9c7b3c73cdaac18f1831a7eb4083e39e849b3615"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/checkbox_selected_highlighted.png"
+hash = "80f63650e962530793ea05fd3b6147b86d6cfd3e3ff095208c309023251d7951"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/cross_button.png"
+hash = "b6fbadecf7dd908b77b80a642388f67399933672c4af67e24ed6e7221ca58753"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/cross_button_highlighted.png"
+hash = "b38f6f1fb7245f72f8c322b9d0e797bdce9c39dae612d6cd7e43577036d2c28f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/locked_button.png"
+hash = "2f9fbd845265063a18a5228156cf7a5c191440c164169444ed10aff9df931d99"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/locked_button_disabled.png"
+hash = "e395fa45dbc8637e6b2c9c296f1526b5e0f3f16beebf0f4a1fde333729ffe777"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/locked_button_highlighted.png"
+hash = "e34058e82b9b1843cdc90351d35569e8d634e8975b7a2350aefdf1dbbacf04d9"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/scroller.png"
+hash = "115fe6651bdf7167fa08c0ca21e22b8cb36f9e01d05cd5385e8ffb816e1ae7ab"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/scroller.png.mcmeta"
+hash = "dfdd19d37e2090fafb891ff694a9e4e34fd499b95c62e712ec5856d33a7aa1e4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slider.png"
+hash = "71426bcc783a32dcd46e7e414ee36e07fbc2a2e73a399db5bfc5d8016dace9f6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slider.png.mcmeta"
+hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slider_handle.png"
+hash = "f4c62993ef72a093bfefa088e47adf6470ac60a9af0480696a6f8ee333196849"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slider_handle.png.mcmeta"
+hash = "11e049c52086d7bf19c9850f8f19c224d9c194b11cd4b5f10b0ecbceaf82d0f0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png"
+hash = "faeff711abbf05711de03ae67fb34b9d3c75e3f3f37fbdbfdfcecfd81338af93"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png.mcmeta"
+hash = "11e049c52086d7bf19c9850f8f19c224d9c194b11cd4b5f10b0ecbceaf82d0f0"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png"
+hash = "71426bcc783a32dcd46e7e414ee36e07fbc2a2e73a399db5bfc5d8016dace9f6"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png.mcmeta"
+hash = "187a31ddec272c2e23fadb2f5ec67b6229abdd2e8848f0ea0ac273e9ac50b29e"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/slot_frame.png"
+hash = "961410a267fd130430cb41c5c164ae05e38a3b1ce68b5e5bd75510cff15e2502"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/tab.png"
+hash = "50723ce061521f90f6303df900d6ed003cda7f98801ea69ce8a949912c4fb53f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/tab.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png"
+hash = "af30be8bb6ebd6f1719b32f14a607c20afed126f1305211c5ca07fc83fb3c238"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/tab_selected.png"
+hash = "e0b5461ab7d1d73aee99e8f6b7264310f0fa5995db351cd859e63550320853d3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/tab_selected.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png"
+hash = "6c5b13dab783110178fdfa5201f1cc2262687b0a6f4d7f4f77bc1f4bb8ac2f8b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/text_field.png"
+hash = "195df95c22ef127b38bf59b5f14544536e236787dc009757766c8db9722a8ce8"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/text_field.png.mcmeta"
+hash = "3e87126f971c59f4ab61c37a898cd4625dcfacd82c6c0a4a38a5939188faa433"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/text_field_highlighted.png"
+hash = "195df95c22ef127b38bf59b5f14544536e236787dc009757766c8db9722a8ce8"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/text_field_highlighted.png.mcmeta"
+hash = "3e87126f971c59f4ab61c37a898cd4625dcfacd82c6c0a4a38a5939188faa433"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/unlocked_button.png"
+hash = "0b51bb39216e3172f649fb513371827e26897611469c50d4b3ab94e06737625d"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/unlocked_button_disabled.png"
+hash = "eff97fc849b06bf3353c5212eedafa0d58ef781ae9a080b4d9f2f05d6515d800"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/widget/unlocked_button_highlighted.png"
+hash = "1cb1b1f28f0735c7064be52adfda1ff62b027e486a62621252a5a5402693dcce"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/world_list/error.png"
+hash = "673ebc15120d54ff1bd3030c9978ca5b35cc137148813444f34d04e461228db5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/world_list/error_highlighted.png"
+hash = "d1af21e5dec324735c8653acc98b949cce1b643eadf937677089ee944f1b1462"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/world_list/join.png"
+hash = "23c59d0ab6c47bab023d4d5cf5a9934ea22a3dc50ac9657535f7178c485a6d19"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/world_list/join_highlighted.png"
+hash = "33c8952cd78011ac59f1c9182882985f5ff9a5a9fb8bcf858f3d38e5127c3833"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/world_list/marked_join.png"
+hash = "23c59d0ab6c47bab023d4d5cf5a9934ea22a3dc50ac9657535f7178c485a6d19"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/world_list/marked_join_highlighted.png"
+hash = "33c8952cd78011ac59f1c9182882985f5ff9a5a9fb8bcf858f3d38e5127c3833"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/world_list/warning.png"
+hash = "673ebc15120d54ff1bd3030c9978ca5b35cc137148813444f34d04e461228db5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/sprites/world_list/warning_highlighted.png"
+hash = "866c43466cbfe219ee2c421b641e1ee4f3e3b9ea9f86af8664d1e322bfb1e1f3"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "0a8f8e748bd06f24bb25ea1223b6a25687155eb20475354204d906401266136f"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/resourcify/colors.json"
+hash = "a5b64a929b3e83b20a45edda2ee17488ebbe0fd39b8cabd039f9904b93c49ec5"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/twemoji/textures/font/emoji.png"
+hash = "b54780c5d75620e8760af9bd2b832cb34a847d526b9c78900fce46c7007d869c"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/assets/twemoji/textures/font/flags.png"
+hash = "0ab0371e5a253e5a888d5c9b934b4bdc95d1657eb451ca96039df8a994cc52d4"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/pack.mcmeta"
+hash = "4c914d6c122ce783373f66faaf4a92d042b2746281d81079e715d74fb5d862cb"
+
+[[files]]
+file = "resources/resourcepack/required/ButterUI Expanded/pack.png"
+hash = "57b220e0920afda2f5cb05014d5cc5dfc5f8976af24cc5b12ff1ea223c1b73d6"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/models/item/shield.json"
+hash = "3d0590d52c21fe250a97acea457c4583b9be997cca7f587f037155121af2b4e8"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/models/item/shield_blocking.json"
+hash = "ad6d5df85e1cfd314db4fa7d281012588ebd4e802407fa934ada3aa68c74e52a"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/block/fire_1.png"
+hash = "46a4cf2d2933f12eda13e7fe56313edf1fa37f19e21ef7026c685d34613a9052"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/block/fire_1.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/gui/sprites/hud/air_empty.png"
+hash = "20c91edf2707a1d5cdee06ebfd7a52a4569b11b75e836cfb1ea588c9c62cf261"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/gui/sprites/hud/armor_empty.png"
+hash = "006077a11b41b55847b26557b7235ca52146480ff21ee068affed28d5f12b56b"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/gui/sprites/hud/armor_half.png"
+hash = "7b028e05c3e021bcc8ad225a7caa4a458fd4c0250f172e7d0f7d001d066604fc"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/misc/powder_snow_outline.png"
+hash = "c979d6b900e050d82206a79014abb26be8b00649e94a13c269a766da73512be4"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/misc/pumpkinblur.png"
+hash = "400369afe4bd385ea277f87bd627b05dd7fb50f47bae0f10e0c7bdf7435dfe17"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/misc/ui/powder_snow_outline.100"
+hash = "c979d6b900e050d82206a79014abb26be8b00649e94a13c269a766da73512be4"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/misc/ui/powder_snow_outline.50"
+hash = "8d8631e30888762397e2ec2454a2654bef797b1b2ac65a83e766cc6b1e23da29"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/misc/ui/pumpkinblur.100"
+hash = "3bdd4309c9b45ac2e622d780ea292e875197760c94f6506dee933d5ddfce6874"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/minecraft/textures/misc/ui/pumpkinblur.50"
+hash = "400369afe4bd385ea277f87bd627b05dd7fb50f47bae0f10e0c7bdf7435dfe17"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/assets/voicechat/textures/icons/disconnected.png"
+hash = "216e8dfd1e4fef88bcc9252f647ce81a902c8aa5189f81ff665bba5f93e783ae"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/pack.mcmeta"
+hash = "a10be7ac4427f2ea31c31bdaba4d1d357e406c9d0d8c7939e39df68f4033bf30"
+
+[[files]]
+file = "resources/resourcepack/required/Reduced Clutter/pack.png"
+hash = "bc056bef4370ba56d7eb1b9d74c5fb470ce64eaf8c4ae4bed27d80c69ac9c05c"
+
+[[files]]
+file = "servers.dat"
+hash = "bc094f6606a6d1029f68aae0bb83c2c6a3be05dd11a672306663ba714daa7491"
+
+[[files]]
+file = "shaderpacks/miniature-shader-2.18.9.zip.txt"
+hash = "8b3969f85b6d0413ebab7fe74fa8214b826a468bbc286d3b94e2038bcb4a3252"
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "06d8b80e204e34536e4f9b3598934208bc08e5d76c656f0e2112821c0e040776"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.2a.zip.txt"
+hash = "659fa4d6f58c6ef9c5a577f7777f1504736c1b0a734a5685dc07db5f6028b584"

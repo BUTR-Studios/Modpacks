@@ -1,3 +1,0 @@
-progress_screen
-generic_dirt_message_screen
-level_loading_screen

@@ -1,0 +1,13 @@
+name = "Global Options"
+filename = "global_options-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJXYIIFx/versions/y2jah9uu/global_options-1.0.jar"
+hash-format = "sha512"
+hash = "d51d332ef6edfd899d2230e45479c20bb2420c0fd99a545c8c0ecb8c4c9f003da15e1b4127ec7193fc8f6a87ca2433e520d7e86b6891043334337166b8471eef"
+
+[update]
+[update.modrinth]
+mod-id = "pJXYIIFx"
+version = "y2jah9uu"
