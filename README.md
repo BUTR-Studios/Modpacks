@@ -1,9 +1,9 @@
 ![Discord](https://img.shields.io/discord/1388641212977909881?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=ButterCord&labelColor=FFCC00&color=101010&link=https%3A%2F%2Fdiscord.gg%2FMCj3HH4DpC)
 ## What does this pack do?
 
-Butterium is a **client-like modpack** that makes your game _**as smooth as possible**_ by *(in some cases)* **QUADRUPLING your FPS** allowing for **smooth** gameplay on **even the lowest of hardware**. In some cases this pack **even performs better than both Lunar and Feather**.
+Butterium is a **client-like modpack** that makes your game _**as smooth as possible**_ by *(in some cases)* **QUADRUPLING your FPS** allowing for **smooth** gameplay on **even the lowest of hardware**. In some cases this pack **even performs better than both Lunar and Feather**
 
-Butterium also **integrates** each mod into **it's very own custom-made ButterUI** so you **shouldn't ever see an ugly config file or bloated menu** with thousands of options **ever again**.
+Butterium also **integrates** each mod into **it's very own custom-made ButterUI** so you **shouldn't ever see an ugly config file or bloated menu** with thousands of options **ever again**
 
 To put it simply, we achieve UX *perfection* with **performance, quality of life and gameplay** all in one pack with **less than 36 mods**.
 
