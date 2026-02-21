@@ -161,6 +161,7 @@ We protect our work with the [Smooth Like BUTR Licence (SLBLv1)](https://github.
 
 <details>
 <summary> Licence details</summary>
+
 # Smooth Like BUTR Licence (SLBLv1)
 Copyright © 2026 [BUTR Corporation](https://find-and-update.company-information.service.gov.uk/company/16678872)
 
