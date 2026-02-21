@@ -151,9 +151,7 @@ As you can see, we refer to **Butterium as a *Client-like* modpack**. Lets expla
 
 ## Credits/Legal
 
-Most, if not all of our GUI's were created using the **amazing tool** that is **[FancyMenu](https://modrinth.com/mod/fancymenu) by [Keksuccino](https://modrinth.com/user/Keksuccino)**, this is amazing for modpack creators as it allows for **custom** designs and scripting within Minecraft
-
-**Some** optimization mod config files were taken/tweaked from [Simply Optimized](https://modrinth.com/modpack/sop), but **not tooo many**
+Most, if not all of our GUI's were created using the **amazing tool** that is **[FancyMenu](https://modrinth.com/mod/fancymenu) by [Keksuccino](https://modrinth.com/user/Keksuccino)**, this is amazing for creators as it allows for **custom** designs and scripting within Minecraft, faster and better than any custom mod we could ever create ourselves.
 
 Butterium has been a passion project of many names over the past 2 years and we wouldn't be here if not for our amazing community and supporters from the Minecraft modding scene
 
