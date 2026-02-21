@@ -9,7 +9,7 @@ To put it simply, we achieve **perfection** with **performance, quality of life 
 
 ## **Please view [the gallery](https://modrinth.com/modpack/butterium/gallery) to see more** UI, HUD and features
 
-![ButterUI Title Showcase](https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/readme-assets/butterui-showcase.webp?raw=true)
+![ButterUI Title Showcase](https://raw.githubusercontent.com/BUTR-Studios/Modpacks/refs/heads/Butterium-dev/.github/readme-assets/butterui-showcase.webp)
 
 ^ *Mid-resolution gif of ButterUI customizations minimized to a small window*
 
@@ -25,7 +25,7 @@ To put it simply, we achieve **perfection** with **performance, quality of life 
 
 📆 **Regular updates** - BUTR Studios is dedicated to **bug-squashing** and meeting user needs by **adding new features** and improving UX constantly
 
-![image](https://cdn.modrinth.com/data/RQEfEOx8/images/7b357bea92fb0237aa208c1071a6451a637ca670.png)
+![image](https://raw.githubusercontent.com/BUTR-Studios/Modpacks/refs/heads/Butterium-dev/.github/readme-assets/quick-settings-preview.png)
 
 ## What is ButterUI?
 ButterUI is an OreUI-inspired design language featuring **user friendly, abstract looking menus** and **insane** customisation - you can simply change the **accent color and background** from a nice personalisation settings menu
@@ -157,7 +157,7 @@ Most, if not all of our GUI's were created using the **amazing tool** that is **
 
 Butterium has been a passion project of many names over the past 2 years and we wouldn't be here if not for our amazing community and supporters from the Minecraft modding scene
 
-We protect our work with the Smooth Like BUTR Licence (SLBLv1)
+We protect our work with the [Smooth Like BUTR Licence (SLBLv1)](https://github.com/BUTR-Studios/Modpacks/blob/Butterium/LICENCE.md)
 
 ## Where do I report bugs/request features?
 
