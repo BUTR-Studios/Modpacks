@@ -5,7 +5,7 @@ Butterium is a **client-like modpack** that makes your game _**as smooth as poss
 
 Butterium also **integrates** each mod into **it's very own custom-made ButterUI** so you **shouldn't ever see an ugly config file or bloated menu** with thousands of options **ever again**.
 
-To put it simply, we achieve **perfection** with **performance, quality of life and gameplay** all in one pack with **less than 36 mods**.
+To put it simply, we achieve UX *perfection* with **performance, quality of life and gameplay** all in one pack with **less than 36 mods**.
 
 ## **Please view [the gallery](https://modrinth.com/modpack/butterium/gallery) to see more** UI, HUD and features
 
