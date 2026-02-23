@@ -941,11 +941,6 @@ hash = "0544fefc6f04f2b408b2c6b4dd3e4bf7d0a4048f1fad6ddf63357549d7446165"
 metafile = true
 
 [[files]]
-file = "mods/noisiumforked.pw.toml"
-hash = "e2690ce7e51e74527ead933b1aef4566c84d2a4d0d482edd9e329c8a2a06963b"
-metafile = true
-
-[[files]]
 file = "mods/one-world-folder.pw.toml"
 hash = "0ca8c3efb14fe579d81e9d2aada908f373a7bf9bb6a1dfc8ccf26c3037595a7d"
 metafile = true
@@ -1023,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "398fc0aeb16146cc18016f3735ea27a47eb888650f1b31d152e19398397c6157"
 metafile = true
 
 [[files]]
