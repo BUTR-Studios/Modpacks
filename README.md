@@ -1,6 +1,6 @@
 ![Discord](https://img.shields.io/discord/1388641212977909881?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=ButterCord&labelColor=FFCC00&color=101010&link=https%3A%2F%2Fdiscord.gg%2FMCj3HH4DpC)
 
-## <img src=".github/ASSETS/heading-1.png" height="18.2" alt="Why is Butterium special?">
+## <img src="https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/heading-1.png?raw=true?raw=true" height="18.2" alt="Why is Butterium special?">
 
 Butterium is a feature-packed and user-friendly way to experience Minecraft without performance issues or a billion ugly configuration screens. Our **fine selection of performance mods and configurations** allows for your game to run **_smooth like butter_** on even the weakest hardware and devices. It's designed so that anyone— no matter if they're new to the game or already a pro PvP player— can enjoy the game _smoothly_, **without interruptions** with all the features and mods they like
 
@@ -8,11 +8,11 @@ We at BUTR Studios achieve lots of this by **integrating** each mod into **our v
 
 **Please view [the gallery](https://modrinth.com/modpack/butterium/gallery) to see more** UI, HUD and features
 
-![ButterUI Title Showcase](https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/readme-assets/butterui-showcase.webp?raw=true)
+![ButterUI Title Showcase](https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/butterui-showcase.webp?raw=true)
 
 > ↳ _Mid-resolution gif of ButterUI customizations minimized to a small window_
 
-## <img src=".github/ASSETS/heading-2.png" height="18.2" alt="Features for days">
+## <img src="https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/heading-2.png?raw=true" height="18.2" alt="Features for days">
 <blockquote style="color: inherit; border-left: 3px solid #FFCC00; opacity: 1;">
 
 ⚡ **Lightning fast performance** - Despite its large feature set, Butterium has comparable and sometimes better performance than the top performance packs and clients without being a bloated RAM hog _(especially in multiplayer)_
@@ -38,9 +38,9 @@ We at BUTR Studios achieve lots of this by **integrating** each mod into **our v
 📆 **Regular Updates** - BUTR Studios is dedicated to meeting user needs by **adding new features**, bug squashing and improving UX with every update
 </blockquote>
 
-![image](.github/ASSETS/quick-settings-preview.png)
+![image](https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/quick-settings-preview.png?raw=true)
 
-## <img src=".github/ASSETS/heading-3.png" height="18.2" alt="What is ButterUI?">
+## <img src="https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/heading-3.png?raw=true" height="18.2" alt="What is ButterUI?">
 ButterUI is an OreUI-inspired design language featuring **user-friendly, abstract-looking menus** and **insane** customisation - you can simply change the **accent color and background** from our nice personalisation menu
 > ↳ Or you could even enter FancyMenu (please read [the documentation](https://docs.fancymenu.net/)) and customise **EVERYTHING**- Not _easy_ but still super cool for advanced users
 
@@ -48,7 +48,7 @@ We provide ButterUI support for a whole bunch of mods- all included mods should 
 
 The ButterUI experience is created using our own resources and FancyMenu configuration. I (caela.uk) work with FancyMenu **a lot** and have been for approximately 2 years now. I commonly push FancyMenu's limits and have to request tons of features, most of which Keksuccino kindly adds for me (and others) to make ButterUI better with
 
-## <img src=".github/ASSETS/heading-4.png" height="18.2" alt="Why 'client'? It's a modpack?">
+## <img src="https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/heading-4.png?raw=true" height="18.2" alt="Why 'client'? It's a modpack?">
 
 We refer to Butterium as a **_Client-like_ modpack**. Lets explain **why**:
 
@@ -61,7 +61,7 @@ We refer to Butterium as a **_Client-like_ modpack**. Lets explain **why**:
 4) We are actively working on a client-like yet minimal launcher with the ability download and install the modpack from Modrinth automatically for those users who might be new to modpacks or transitioning from a popular client or vanilla
 
 <details>
-<summary><img src=".github/ASSETS/details-1.png" height="12" alt="View Roadmap/to-do"></summary>
+<summary><img src="https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/details-1.png?raw=true" height="12" alt="View Roadmap/to-do"></summary>
 
 - [x] Add a "support us" widget
 
@@ -147,7 +147,7 @@ We refer to Butterium as a **_Client-like_ modpack**. Lets explain **why**:
 - [ ] Advanced customisation button in personalisation and Credits menus that leads to new menu
 > ↳ This menu should teach users how to create and download resource packs for Butterium
 
-- [ ] Custom backgrounds replacing "0" in the BG carousel (.png, .jpg, .jpeg)
+- [ ] Custom backgrounds replacing "0" in the BG carousel (.png?raw=true, .jpg, .jpeg)
 
 - [ ] Light and Midnight UI themes
 > ↳ credit: fishandchips
@@ -163,7 +163,7 @@ We refer to Butterium as a **_Client-like_ modpack**. Lets explain **why**:
 > credit: fishandchips
 </details>
 
-## <img src=".github/ASSETS/heading-5.png" height="18.2" alt="Credits/Legal">
+## <img src="https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/heading-5.png?raw=true" height="18.2" alt="Credits/Legal">
 
 Most, if not all of our GUI's were created using the **amazing tool** that is **[FancyMenu](https://modrinth.com/mod/fancymenu) by [Keksuccino](https://modrinth.com/user/Keksuccino)**, this is amazing for creators as it allows for **custom** designs and scripting within Minecraft, faster and better than any custom mod we could ever create ourselves
 
@@ -172,7 +172,7 @@ Butterium has been a passion project of many names over the past 2 years and we 
 We protect our work here with the [Smooth Like BUTR Licence](https://github.com/BUTR-Studios/Modpacks/blob/Butterium/LICENCE.md)
 
 <details>
-<summary><img src=".github/ASSETS/details-2.png" height="12" alt="View Licence Details"></summary>
+<summary><img src="https://github.com/BUTR-Studios/Modpacks/blob/Butterium-dev/.github/ASSETS/details-2.png?raw=true" height="12" alt="View Licence Details"></summary>
 <blockquote style="color: inherit; border-left: 3px solid #909090; opacity: 1;">
 
 # Smooth Like BUTR Licence (SLBLv2)
@@ -221,7 +221,7 @@ Honestly from vro to vro and to keep you safe, I would always recommend asking l
 </blockquote>
 </details>
 
-## <img src=".github/ASSETS/heading-6.png" height="18.2" alt="Where do I report bugs/feature requests?">
+## <img src=".github/ASSETS/heading-6.png?raw=true" height="18.2" alt="Where do I report bugs/feature requests?">
 
 If you encounter any **incompatibilities, missing features or bugs** whilst using this modpack please report them to the BUTR Studios official Discord linked below **↓**
 
