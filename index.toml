@@ -891,6 +891,11 @@ hash = "46ebc1ce6fbe881f6e7061e3ee64664ba2fa31afb128a878a46440b45ea7b180"
 metafile = true
 
 [[files]]
+file = "mods/gnetum.pw.toml"
+hash = "e74257fc8ccf581f162f8d778fbb86e37ac685be225e38922785193664ac5ace"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
