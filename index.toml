@@ -846,11 +846,6 @@ hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
-file = "mods/crosshair-addons-public.pw.toml"
-hash = "ce907c287c097274dc53e799471d0d747e542d75a329d0e488f8148921678142"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "656016c90b099a0c1620f6453e753015369d7e02be378c284aeb74307e080cdf"
 metafile = true
