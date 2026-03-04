@@ -3,6 +3,6 @@
   "show_mod_icons": true,
   "coloured_header_text": true,
   "coloured_category_text": true,
-  "collapse_threshold": 10,
+  "collapse_threshold": 5,
   "collapse_sodium_options": false
 }

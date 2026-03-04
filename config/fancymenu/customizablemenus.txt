@@ -267,3 +267,6 @@ net.minecraft.class_429 {
 smsk.smoothscroll.menu.Inspiration {
 }
 
+games.enchanted.enchanteds_sodium_options.common.gui.screen.SubOptionsScreen {
+}
+

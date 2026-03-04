@@ -44,7 +44,7 @@ variable {
 
 variable {
   name = armor-hud-is-enabled
-  value = True
+  value = true
   reset_on_launch = false
 }
 
@@ -74,7 +74,7 @@ variable {
 
 variable {
   name = cords-hud-is-enabled
-  value = True
+  value = true
   reset_on_launch = false
 }
 
@@ -146,25 +146,25 @@ variable {
 
 variable {
   name = last-death-x
-  value = -50
+  value = -13
   reset_on_launch = false
 }
 
 variable {
   name = last-death-y
-  value = 73
+  value = 255
   reset_on_launch = false
 }
 
 variable {
   name = last-death-z
-  value = -620
+  value = 17
   reset_on_launch = false
 }
 
 variable {
   name = difficulty
-  value = Normal
+  value = Easy
   reset_on_launch = false
 }
 
@@ -206,13 +206,13 @@ variable {
 
 variable {
   name = total-packaged-mods
-  value = 164
+  value = 161
   reset_on_launch = false
 }
 
 variable {
   name = has-seen-resource-browser
-  value = true
+  value = false
   reset_on_launch = false
 }
 
@@ -253,6 +253,12 @@ variable {
 }
 
 variable {
+  name = invshortcut-1-icon
+  value = dark oak door
+  reset_on_launch = false
+}
+
+variable {
   name = has-passed-onboarding
   value = true
   reset_on_launch = false
@@ -260,7 +266,7 @@ variable {
 
 variable {
   name = keystrokes-is-enabled
-  value = False
+  value = true
   reset_on_launch = false
 }
 
@@ -278,7 +284,7 @@ variable {
 
 variable {
   name = time-is-enabled
-  value = True
+  value = true
   reset_on_launch = false
 }
 
@@ -296,7 +302,7 @@ variable {
 
 variable {
   name = direct-connect
-  value = 
+  value = my.cool.server
   reset_on_launch = false
 }
 

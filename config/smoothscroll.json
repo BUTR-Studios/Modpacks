@@ -6,12 +6,12 @@
     "To access config ingame, use the mod modmenu."
   ],
   "Hotbar": {
-    "Smoothness": 5.0,
+    "Smoothness": 0.0,
     "Rollover": true,
     "Static Selector": false
   },
   "Chat": {
-    "Smoothness": 50.0,
+    "Smoothness": 2.5,
     "Opening Smoothness": 50.0,
     "Scrolling Speed": 0.0,
     "Suggestion Smoothness": 50.0,

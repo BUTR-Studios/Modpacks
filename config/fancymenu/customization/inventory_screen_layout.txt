@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = inventory_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1768147948138
+  last_edited_time = 1771467988032
   is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:96125a17-4726-4628-b931-743273d1f0cc-1768147753706] = [groups:][instances:]
+  [loading_requirement_container_meta:c81f5049-fd94-4601-b681-b06555810fd5-1771513866530] = [groups:][instances:]
 }
 
 customization {
@@ -81,7 +81,8 @@ element {
 
 element {
   button_element_executable_block_identifier = f3e14e96-dfb2-426c-8dc3-f323738c36a8-1757865175708
-  [executable_block:f3e14e96-dfb2-426c-8dc3-f323738c36a8-1757865175708][type:generic] = [executables:]
+  [executable_action_instance:068ad65f-5576-4085-b424-3badf9a8dbbf-1771454295783][action_type:sendmessage] = {"placeholder":"getvariable","values":{"name":"invshortcut-1"}}
+  [executable_block:f3e14e96-dfb2-426c-8dc3-f323738c36a8-1757865175708][type:generic] = [executables:068ad65f-5576-4085-b424-3badf9a8dbbf-1771454295783;]
   backgroundnormal = [source:location]textures/gui/sprites/container/slot.png
   backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   restartbackgroundanimations = true
@@ -120,14 +121,15 @@ element {
   anchor_point = element
   anchor_point_element = 516478
   x = 25
-  y = -84
+  y = -85
   width = 25
-  height = 15
+  height = 17
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = 34417d0a-e068-4b70-b1be-e873ee20bc57-1757865175708
-  [loading_requirement_container_meta:34417d0a-e068-4b70-b1be-e873ee20bc57-1757865175708] = [groups:][instances:]
+  [loading_requirement_container_meta:34417d0a-e068-4b70-b1be-e873ee20bc57-1757865175708] = [groups:][instances:30ca2339-a713-4927-bc9d-b696b2ee40ed-1771454621858;]
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:30ca2339-a713-4927-bc9d-b696b2ee40ed-1771454621858] = ["mode":"equals","text":"{"placeholder":"getvariable","values":{"name":"invshortcut-1"}}","compare_with":"0"]$
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
@@ -145,10 +147,10 @@ element {
 }
 
 element {
-  item_key = minecraft:dark_oak_door
+  item_key = minecraft:{"placeholder":"replace_text","values":{"text":"{"placeholder":"getvariable","values":{"name":"invshortcut-1-icon"}}","search":" ","replacement":"_","use_regex":"false","replace_all":"true"}}
   item_count = 1
   enchanted = false
-  show_tooltip = true
+  show_tooltip = false
   element_type = item
   instance_identifier = 30a7146d-6d38-44fd-9028-0500cf27d5c8-1757868450675
   appearance_delay = no_delay
@@ -172,7 +174,8 @@ element {
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = c7369930-ed7f-48f7-8da2-8b63e008a99e-1757868450675
-  [loading_requirement_container_meta:c7369930-ed7f-48f7-8da2-8b63e008a99e-1757868450675] = [groups:][instances:]
+  [loading_requirement_container_meta:c7369930-ed7f-48f7-8da2-8b63e008a99e-1757868450675] = [groups:][instances:27a8b0f1-11bc-4681-891a-fc2e5cc01f76-1771454932800;]
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:27a8b0f1-11bc-4681-891a-fc2e5cc01f76-1771454932800] = ["mode":"equals","text":"{"placeholder":"getvariable","values":{"name":"invshortcut-1"}}","compare_with":"0"]$
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
@@ -209,10 +212,10 @@ element {
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 516478
-  x = 4
-  y = 2
-  width = 12
-  height = 12
+  x = 3
+  y = 1
+  width = 14
+  height = 14
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -329,6 +332,119 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = c08359be-a8d2-450d-9503-7a397efb1817-1757869682885
   [loading_requirement_container_meta:c08359be-a8d2-450d-9503-7a397efb1817-1757869682885] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+
+element {
+  button_element_executable_block_identifier = f3e14e96-dfb2-426c-8dc3-f323738c36a8-1757865175708
+  [executable_action_instance:d7c661f5-05a5-48b7-972d-51bba62ad9d0-1771454379876][action_type:sendmessage] = {"placeholder":"getvariable","values":{"name":"invshortcut-2"}}
+  [executable_block:f3e14e96-dfb2-426c-8dc3-f323738c36a8-1757865175708][type:generic] = [executables:d7c661f5-05a5-48b7-972d-51bba62ad9d0-1771454379876;]
+  backgroundnormal = [source:location]textures/gui/sprites/container/slot.png
+  backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
+  restartbackgroundanimations = true
+  nine_slice_custom_background = true
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1e2ea33a-39a2-4219-9062-adf13ab0a9b4-1757865175708
+  [loading_requirement_container_meta:1e2ea33a-39a2-4219-9062-adf13ab0a9b4-1757865175708] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = custom_button
+  instance_identifier = d8e86c23-3a78-4081-900f-52c5c64ce202-1771454287016
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = 516478
+  x = 0
+  y = -85
+  width = 25
+  height = 17
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 34417d0a-e068-4b70-b1be-e873ee20bc57-1757865175708
+  [loading_requirement_container_meta:34417d0a-e068-4b70-b1be-e873ee20bc57-1757865175708] = [groups:][instances:4dda8402-f3c5-4699-b9ea-ca3ea15c5f08-1771454997062;]
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:4dda8402-f3c5-4699-b9ea-ca3ea15c5f08-1771454997062] = ["mode":"equals","text":"{"placeholder":"getvariable","values":{"name":"invshortcut-2"}}","compare_with":"0"]$
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+
+element {
+  item_key = minecraft:{"placeholder":"replace_text","values":{"text":"{"placeholder":"getvariable","values":{"name":"invshortcut-2-icon"}}","search":" ","replacement":"_","use_regex":"false","replace_all":"true"}}
+  item_count = 1
+  enchanted = false
+  show_tooltip = false
+  element_type = item
+  instance_identifier = 0663786b-626b-4cc3-8158-6ddc4d556956-1771454394859
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = 516478
+  x = 6
+  y = -83
+  width = 11
+  height = 11
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c7369930-ed7f-48f7-8da2-8b63e008a99e-1757868450675
+  [loading_requirement_container_meta:c7369930-ed7f-48f7-8da2-8b63e008a99e-1757868450675] = [groups:][instances:ef4e694e-441d-40c5-a88e-151a4ee596aa-1771455019302;]
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:ef4e694e-441d-40c5-a88e-151a4ee596aa-1771455019302] = ["mode":"equals","text":"{"placeholder":"getvariable","values":{"name":"invshortcut-2"}}","compare_with":"0"]$
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false

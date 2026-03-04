@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = gui_customization_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1769260195042
+  last_edited_time = 1771336527863
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:c4ceff19-9e39-46fa-bfe4-c45265e2b391-1769260132513] = [groups:][instances:]
+  [loading_requirement_container_meta:26c33d90-5e9e-40ad-9d82-e62be02c96d6-1771336509685] = [groups:][instances:]
 }
 
 customization {
@@ -176,7 +176,7 @@ element {
 
 element {
   interactable = false
-  source = ^^^%n%      Personalization%n%^^^
+  source = Personalization
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -222,7 +222,7 @@ element {
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = c6006dc0-e616-48a6-abf3-47a456622feb-1755298943265
-  x = 78
+  x = 118
   y = 4
   width = 145
   height = 14
@@ -805,7 +805,7 @@ element {
   anchor_point_element = c6006dc0-e616-48a6-abf3-47a456622feb-1755298943265
   x = 15
   y = 68
-  width = 80
+  width = 97
   height = 14
   stretch_x = false
   stretch_y = false
@@ -1451,10 +1451,9 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
-  anchor_point = element
-  anchor_point_element = 4f90701f-02e7-4bab-8c22-74b835a1a4bb-1755304444251
-  x = 1
-  y = 1
+  anchor_point = mid-centered
+  x = -48
+  y = -105
   width = 16
   height = 16
   stretch_x = false
@@ -1499,10 +1498,9 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
-  anchor_point = element
-  anchor_point_element = 7bf925bd-762e-4111-b377-c3f747cc9706-1755299497538
-  x = 25
-  y = 0
+  anchor_point = mid-centered
+  x = -49
+  y = -106
   width = 16
   height = 16
   stretch_x = false
@@ -3042,6 +3040,8 @@ element {
 
 element {
   button_element_executable_block_identifier = 1546930c-03a6-4a8d-8994-3df2d9027e76-1755306395670
+  [executable_action_instance:01bdc762-d816-4c07-8a22-4e232a8c5f13-1763931543268][action_type:create_file_in_game_dir] = .minecraft/BUTR/data/onboarding_pass
+  [executable_action_instance:83af382c-7091-4551-9c5f-9685abfbb841-1771267341301][action_type:create_file_in_game_dir] = /config/BUTR/data/onboarding_pass
   [executable_action_instance:2936d887-df3e-4303-ab77-b1dfdc4903ce-1755311145998][action_type:set_variable] = keystroke-pressed-color:{"placeholder":"getvariable","values":{"name":"accent-color"}}
   [executable_action_instance:2f6555e6-700d-4fb6-a4f8-7e05ea0ff7b0-1755529564637][action_type:openlink] = https://butterium.uk/discord
   [executable_action_instance:656c9bcf-a3b6-4802-a4ea-592f7db54880-1755529582265][action_type:set_variable] = has-passed-onboarding:true
@@ -3051,8 +3051,7 @@ element {
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:4185cec2-9b79-4b98-871e-37788fd50da1-1755529308517] = has-passed-onboarding:false
   [if_executable_block_collapsed:cdaeacd8-1aae-4a95-b08c-ef24bea5c44e-1755529331391] = false
   [executable_action_instance:d9c6439c-724b-49cd-ad11-0cb27d5ef1e5-1755307281494][action_type:opengui] = title_screen
-  [executable_action_instance:01bdc762-d816-4c07-8a22-4e232a8c5f13-1763931543268][action_type:create_file_in_game_dir] = .minecraft/butterium/onboarding-pass
-  [executable_block:1546930c-03a6-4a8d-8994-3df2d9027e76-1755306395670][type:generic] = [executables:2936d887-df3e-4303-ab77-b1dfdc4903ce-1755311145998;cdaeacd8-1aae-4a95-b08c-ef24bea5c44e-1755529331391;d9c6439c-724b-49cd-ad11-0cb27d5ef1e5-1755307281494;01bdc762-d816-4c07-8a22-4e232a8c5f13-1763931543268;]
+  [executable_block:1546930c-03a6-4a8d-8994-3df2d9027e76-1755306395670][type:generic] = [executables:01bdc762-d816-4c07-8a22-4e232a8c5f13-1763931543268;83af382c-7091-4551-9c5f-9685abfbb841-1771267341301;2936d887-df3e-4303-ab77-b1dfdc4903ce-1755311145998;cdaeacd8-1aae-4a95-b08c-ef24bea5c44e-1755529331391;d9c6439c-724b-49cd-ad11-0cb27d5ef1e5-1755307281494;]
   backgroundnormal = [source:location]butr:ui/buttons/button-nineslice-3x5.png
   backgroundhovered = [source:location]butr:ui/hover_buttons/{"placeholder":"getvariable","values":{"name":"accent-color"}}.png
   background_texture_inactive = [source:location]butr:ui/innactive_buttons/button-nineslice-3x5.png
@@ -3167,7 +3166,7 @@ element {
   anchor_point_element = 51979389-624c-4b45-9c80-c677eb872fee-1755301993568
   x = 23
   y = 3
-  width = 49
+  width = 98
   height = 14
   stretch_x = false
   stretch_y = false
@@ -3432,7 +3431,7 @@ element {
   anchor_point_element = 42d1cf8a-12a3-4264-869a-07af9fc8a71c-1755306395668
   x = -2
   y = -15
-  width = 200
+  width = 287
   height = 14
   stretch_x = false
   stretch_y = false
