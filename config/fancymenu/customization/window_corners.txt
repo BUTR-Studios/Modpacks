@@ -1,0 +1,134 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1771620851690
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:8b812768-a910-4725-b48f-dd0c06308b9c-1771620750591] = [groups:][instances:991daea0-cb37-459f-aa67-a575a6d54f94-1755452883279;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:991daea0-cb37-459f-aa67-a575a6d54f94-1755452883279] = mojo:false
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  source = [source:location]butr:other/corner-left.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  image_tint = #101010
+  restart_animated_on_menu_load = false
+  element_type = image
+  instance_identifier = 5d54bf68-e784-4d3f-b3fa-62c882b843ae-1757184510147
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1059
+  sticky_anchor = false
+  anchor_point = top-left
+  x = 0
+  y = 0
+  width = 13
+  height = 7
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = c06a2502-7889-4f55-9985-0809e2869fd4-1756819869971
+  [loading_requirement_container_meta:c06a2502-7889-4f55-9985-0809e2869fd4-1756819869971] = [groups:][instances:eaa21476-ce0a-40aa-9652-48242f893d2a-1756819869971;91d212ea-b4e4-41b5-b46c-0b503183d568-1756819869971;291e5114-a675-4e6d-9cb6-7c493c221183-1757184519204;]
+  [loading_requirement:fancymenu_loading_requirement_is_fullscreen][requirement_mode:if_not][req_id:eaa21476-ce0a-40aa-9652-48242f893d2a-1756819869971] = 
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:91d212ea-b4e4-41b5-b46c-0b503183d568-1756819869971] = mica
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:291e5114-a675-4e6d-9cb6-7c493c221183-1757184519204] = ["mode":"equals","text":"{"placeholder":"osname"}","compare_with":"Windows 11"]$
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+
+element {
+  source = [source:location]butr:other/corner-right.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  image_tint = #101010
+  restart_animated_on_menu_load = false
+  element_type = image
+  instance_identifier = a842a7a2-cade-4997-8d18-cadbe488391a-1757184510147
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1059
+  sticky_anchor = false
+  anchor_point = top-right
+  x = -13
+  y = 0
+  width = 13
+  height = 7
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 83f93579-35f5-47fa-9ea6-676d04ba18ef-1756819869971
+  [loading_requirement_container_meta:83f93579-35f5-47fa-9ea6-676d04ba18ef-1756819869971] = [groups:][instances:c0db5b26-fb94-405b-ac6e-7be90caf4ccb-1756819869971;887463b0-c332-4844-b5c1-11c2d4de65e9-1756819869971;f57fb811-6ef5-4af9-ab58-e6b9b3c4b338-1757184557018;]
+  [loading_requirement:fancymenu_loading_requirement_is_fullscreen][requirement_mode:if_not][req_id:c0db5b26-fb94-405b-ac6e-7be90caf4ccb-1756819869971] = 
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:887463b0-c332-4844-b5c1-11c2d4de65e9-1756819869971] = mica
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:f57fb811-6ef5-4af9-ab58-e6b9b3c4b338-1757184557018] = ["mode":"equals","text":"{"placeholder":"osname"}","compare_with":"Windows 11"]$
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+

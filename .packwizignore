@@ -1,0 +1,31 @@
+# Exclude README
+README.md
+LICENCE.md
+/CNAME
+/.github
+
+# Exclude unnecessary files
+*.mrpack
+*.jar
+servers.dat_old
+/.cache
+/.fabric
+/fancymenu_data
+/crash-reports
+/data
+/logs
+/resourcepacks
+/saves
+/downloads
+realms_persistence.json
+/datapacks
+/spiffy_instance_data
+/resources/common
+/resources/datapack
+/config/BUTR/data
+
+# Exclude packwiz files
+.packwizignore
+.packwizindex
+index.toml
+pack.toml
